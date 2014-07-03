@@ -157,7 +157,13 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 * Relational Databases
 
+  * [ActiveRecord](https://www.ruby-toolbox.com/projects/activerecord) - Databases on Rails. Build a persistent domain model by mapping database tables to Ruby classes
+  * [DataMapper](http://datamapper.org/) - DataMapper is an Object Relational Mapper written in Ruby. The goal is to create an ORM which is fast, thread-safe and feature rich.
+  * [Sequel](http://sequel.jeremyevans.net/) - The Database Toolkit for Ruby
+
 * NoSQL Databases
+
+  * [Mongoid](http://mongoid.org) - Mongoid (pronounced mann-goyd) is an Object-Document-Mapper (ODM) for MongoDB written in Ruby.
 
 ## Web Frameworks
 
@@ -382,7 +388,7 @@ Where to discover new Ruby libraries.
 
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
   * [RubyGems](https://www.rubygems.org)
-  
+
 ## Websites
 
 
