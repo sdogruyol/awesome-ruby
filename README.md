@@ -288,7 +288,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [RSpec](http://rspec.info/) - BDD for Ruby
   * [MiniTest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
 * Mock
-
+  * [RSpec-mocks](https://github.com/rspec/rspec-mocks) - RSpec's 'test double' framework, with support for stubbing and mocking
+  * [Mocha](http://gofreerange.com/mocha/docs/) - Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.
+  * [FlexMock](https://github.com/jimweirich/flexmock) - Flexible mocking for Ruby testing
 * Fake Data
 
 * Code Coverage
