@@ -179,14 +179,28 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Content management systems*
 
+  * [Refinery](http://refinerycms.com/)
+  * [Browser](http://www.browsercms.org/)
+  * [Locomotive](http://www.locomotivecms.com/)
+  * [Radiant](http://radiantcms.org/)
+  * [Nesta](http://nestacms.com/)
+
 ## RESTful API
 
 *Libraries for developing RESTful APIs.*
+
+  * [Grape](http://intridea.github.io/grape/) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
 
+  * [Devise](https://github.com/plataformatec/devise) - Devise is a flexible authentication solution for Rails based on Warden
+  * [Omniauth](https://github.com/intridea/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware
+  * [Warden](https://github.com/hassox/warden) - General Rack Authentication Framework
+  * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
+  * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
+  
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
@@ -404,4 +418,4 @@ Where to discover new Ruby libraries.
 
 # Contributing
 
-Your contributions are always welcome!
+Your Pull requests are welcome! Let's make this the **awesomest** resource for Ruby <3
