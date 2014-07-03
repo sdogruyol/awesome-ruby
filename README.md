@@ -2,11 +2,7 @@
 
 A curated list of awesome Ruby frameworks, libraries and resources. Inspired by awesome-php & awesome-python.
 
-# Awesome Ruby
-
-A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
-
-- [Awesome Ruby](#awesome-python)
+- [Awesome Ruby](#awesome-ruby)
     - [Environment Management](#environment-management)
     - [Package Management](#package-management)
     - [Distribution](#distribution)
