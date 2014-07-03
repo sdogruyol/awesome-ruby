@@ -188,6 +188,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for developing RESTful APIs.*
 
+  * [Grape](http://intridea.github.io/grape/) - An opinionated micro-framework for creating REST-like APIs in Ruby. 
+
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
