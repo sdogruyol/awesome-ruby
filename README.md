@@ -401,4 +401,4 @@ Where to discover new Ruby libraries.
 
 # Contributing
 
-Your contributions are always welcome!
+Your Pull requests are welcome! Let's make this the **awesomest** resource for Ruby <3
