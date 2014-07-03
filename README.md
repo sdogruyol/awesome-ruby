@@ -306,6 +306,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
+  *[Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+  *[ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
 
 ## Debugging Tools
 
