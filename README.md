@@ -200,14 +200,22 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [Warden](https://github.com/hassox/warden) - General Rack Authentication Framework
   * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
   * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
-  
+
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
 
+  * [Slim](https://github.com/slim-template/slim) A templating lang that reduce the syntax to the essential parts without becoming cryptic.
+    * [slim-rails](https://github.com/slim-template/slim-rails) Rails port of Slim lang
+  * [Haml](https://github.com/haml/haml) HTML Abstraction Markup Language - A Markup Haiku
+    * [haml-rails](https://github.com/indirect/haml-rails) Rails port of Haml lang
+
 ## Queue
 
 *Libraries for working with event and task queues.*
+
+  * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
+  * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
 
 ## Search
 
