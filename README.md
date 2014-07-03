@@ -344,6 +344,10 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Software and libraries for DevOps.*
 
+  * [Puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
+  * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+  * [Vagrant](http://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments.
+  * [Capistrano](http://www.capistranorb.com) - Remote multi-server automation tool
 
 ## Foreign Function Interface
 
