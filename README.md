@@ -73,12 +73,13 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Environment Management
 
 *Libraries for Ruby version and environment management.*
-  * [rvm](https://rvm.io/)
-  * [rbenv](http://rbenv.org/)
+  * [rvm](https://rvm.io/) - Ruby Version Manager
+  * [rbenv](http://rbenv.org/) - Groom your app’s Ruby environment
 
 ## Package Management
 
 *Libraries for package and dependency management.*
+  * [RubyGems](https://rubygems.org/) - RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries 
 
 ## Distribution
 
