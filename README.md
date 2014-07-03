@@ -173,6 +173,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
   * [Padrino](http://www.padrinorb.com/) - The Godfather of Sinatra provides a full-stack agnostic framework on top of Sinatra
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
+  * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
 
 ## CMS
 
@@ -394,6 +395,8 @@ Where to discover new Ruby libraries.
 
 
 ## Weekly
+
+  * [Ruby Weekly](http://rubyweekly.com/) A free, once–weekly e-mail round-up of Ruby news and articles.
 
 
 ## Twitter
