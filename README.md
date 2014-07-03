@@ -46,7 +46,6 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
     - [Processes and Threads](#processes-and-threads)
     - [Networking](#networking)
     - [WebSocket](#websocket)
-    - [WSGI Servers](#wsgi-servers)
     - [Cryptography](#cryptography)
     - [GUI](#gui)
     - [Game Development](#game-development)
