@@ -285,7 +285,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for testing codebases and generating test data.*
 
 * Testing Frameworks
-
+  * [RSpec](http://rspec.info/) - BDD for Ruby
+  * [MiniTest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
 * Mock
 
 * Fake Data
