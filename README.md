@@ -73,6 +73,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Environment Management
 
 *Libraries for Ruby version and environment management.*
+  * [rvm](https://rvm.io/)
+  * [rbenv](http://rbenv.org/)
 
 ## Package Management
 
