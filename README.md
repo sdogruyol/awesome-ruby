@@ -313,6 +313,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for debugging and developing.*
 
+  * [byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby 2
+  * [debugger](https://github.com/cldwalker/debugger) - port of ruby-debug that works on 1.9.2 and 1.9.3
 
 ## Science and Data Analysis
 
