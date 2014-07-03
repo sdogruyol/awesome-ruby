@@ -135,19 +135,32 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for manipulating video and GIFs.*
 
+  * [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
+
 ## Geolocation
 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
+  * [geocoder](https://github.com/alexreisner/geocoder) Complete Ruby geocoding solution
+
 ## HTTP
 
 *Libraries for working with HTTP.*
+
+  * [httparty](https://github.com/jnunemaker/httparty) Makes http fun again!
+  * [faraday](https://github.com/lostisland/faraday) Simple, but flexible HTTP client library, with support for multiple backends.
+  * [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
+  * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
+  * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
 
 ## Database Drivers
 
 *Libraties for connecting and operating databases.*
 
 * Relational Databases
+  * [ruby-pg](https://bitbucket.org/ged/ruby-pg) Ruby interface to the PostgreSQL >= 8.4
+  * [mysql2](https://github.com/brianmario/mysql2) A modern, simple and very fast Mysql library for Ruby
+  * [sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) Ruby bindings for the SQLite3 embedded database
 
 * NoSQL Databases
 
@@ -281,6 +294,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for administrative interfaces.*
 
+  * [active_admin](https://github.com/gregbell/active_admin) The administration framework for Ruby on Rails applications
+  * [rails_admin](https://github.com/sferik/rails_admin) A Rails engine that provides an easy-to-use interface for managing your data
+
 ## Processes and Threads
 
 *Libraries for woking with processes or threads*
@@ -370,6 +386,11 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for accessing third party APIs.*
 
+  * [koala](https://github.com/arsduo/koala) A lightweight, flexible library for Facebook
+  * [fb_graph](https://github.com/nov/fb_graph) A full-stack Facebook Graph API wrapper
+  * [twitter](https://github.com/sferik/twitter) A Ruby interface to the Twitter API
+  * [tweetstream](https://github.com/tweetstream/tweetstream) A simple library for consuming Twitter's Streaming API
+  * [octokit.rb](https://github.com/octokit/octokit.rb) Ruby toolkit for the GitHub API
 
 ## DevOps Tools
 
