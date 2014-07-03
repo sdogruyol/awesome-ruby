@@ -380,6 +380,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 Where to discover new Ruby libraries.
 
+  * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
+  * [RubyGems](https://www.rubygems.org)
+  
 ## Websites
 
 
