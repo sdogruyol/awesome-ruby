@@ -79,7 +79,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Package Management
 
 *Libraries for package and dependency management.*
-  * [RubyGems](https://rubygems.org/) - RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries 
+  * [RubyGems](https://rubygems.org/) - RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries
 
 ## Distribution
 
@@ -162,6 +162,11 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Web Frameworks
 
 *Web development frameworks.*
+
+  * [Ruby On Rails](http://rubyonrails.org/) - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable productivity
+  * [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
+  * [Padrino](http://www.padrinorb.com/) - The Godfather of Sinatra provides a full-stack agnostic framework on top of Sinatra
+  * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
 
 ## CMS
 
