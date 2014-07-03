@@ -292,7 +292,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [Mocha](http://gofreerange.com/mocha/docs/) - Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.
   * [FlexMock](https://github.com/jimweirich/flexmock) - Flexible mocking for Ruby testing
 * Fake Data
-
+  * [Faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers
+  * [ffaker](https://github.com/emmanueloga/ffaker) - Faker Refactored.
+  * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Code Coverage
 
 * Load Testing
