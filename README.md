@@ -69,3 +69,316 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
     - [Websites](#websites)
     - [Weekly](#weekly)
     - [Twitter](#twitter)
+
+## Environment Management
+
+*Libraries for Python version and environment management.*
+
+## Package Management
+
+*Libraries for package and dependency management.*
+
+## Distribution
+
+*Libraries to create packaged executables for release distribution.*
+
+## Files
+
+*Libraries for file manipulation and MIME type detection.*
+
+## Date and Time
+
+*Libraries for working with dates and times.*
+
+## Text Processing
+
+*Libraries for parsing and manipulating texts.*
+
+* General
+
+* Specific Formats
+
+* Parser
+
+## Natural Language Processing
+
+*Libraries for working with human languages.*
+
+## Documentation
+
+*Libraries for generating project documentation.*
+
+## Configuration
+
+*Libraries for storing configuration options.*
+
+## Command-line Tools
+
+*Libraries for building command-line application.*
+
+* Command-line Application Development
+
+* Workflow Tools
+
+## Imagery
+
+*Libraries for manipulating images.*
+
+## Audio
+
+*Libraries for manipulating audio.*
+
+## Video
+
+*Libraries for manipulating video and GIFs.*
+
+## Geolocation
+
+*Libraries for geocoding addresses and working with latitudes and longitudes.*
+
+## HTTP
+
+*Libraries for working with HTTP.*
+
+## Database Drivers
+
+*Libraties for connecting and operating databases.*
+
+* Relational Databases
+
+* NoSQL Databases
+
+## ORM
+
+*Libraries that implement Object-Relational Mapping or datamapping techniques.*
+
+* Relational Databases
+
+* NoSQL Databases
+
+## Web Frameworks
+
+*Web development frameworks.*
+
+## CMS
+
+*Content management systems*
+
+## RESTful API
+
+*Libraries for developing RESTful APIs.*
+
+## Authentication and OAuth
+
+*Libraries for implementing authentications schemes.*
+
+## Template Engine
+
+*Libraries and tools for templating and lexing.*
+
+## Queue
+
+*Libraries for working with event and task queues.*
+
+## Search
+
+*Libraries and software for indexing and performing search queries on data.*
+
+## Asset Management
+
+*Tools for managing, compressing and minifying website assets.*
+
+## Caching
+
+*Libraries for caching data.*
+
+## Email
+
+*Libraries for sending and parsing email.*
+
+## Internationalization
+
+*Libraries for woking with i18n.*
+
+## URL Manipulation
+
+*Libraries for parsing URLs.*
+
+## HTML Manipulation
+
+*Libraries for working with HTML and XML.*
+
+## Web Crawling
+
+*Libraries for scraping websites.*
+
+## Web Content Extracting
+
+*Libraries for extracting web contents.*
+
+## Downloader
+
+*Libraries for downloading.*
+
+## Forms
+
+*Libraries for working with forms.*
+
+## Data Validation
+
+*Libraries for validating data. Used for forms in many cases.*
+
+## Anti-spam
+
+*Libraries for fighting spam.*
+
+## Tagging
+
+*Libraries for tagging items.*
+
+## Build Tools
+
+*Compile software from source code.*
+
+## Admin Panels
+
+*Libraries for administrative interfaces.*
+
+## Processes and Threads
+
+*Libraries for woking with processes or threads*
+
+## Networking
+
+*Libraries for network programming.*
+
+## WebSocket
+
+*Libraries for woking with WebSocket.*
+
+## Cryptography
+
+* [PyCA's Cryptography](https://cryptography.io/en/latest/) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+
+## GUI
+
+*Libraries for working with graphical user interface applications.*
+
+* [PySide](http://qt-project.org/wiki/pyside) - Python bindings for the [Qt](http://qt-project.org/) cross-platform application and UI framework, supporting the Qt v4 framework.
+* [wxPython](http://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
+* [kivy](http://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
+* [curses](https://docs.python.org/2/library/curses.html#module-curses) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+* [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
+* [pyglet](http://www.pyglet.org/) - A cross-platform windowing and multimedia library for Python.
+* [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
+* [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro) - Python bindings for the [Qt](http://qt-project.org/) cross-platform application and UI framework, with support for both Qt v4 and Qt v5 frameworks.
+
+## Game Development
+
+*Awesome game development libraries.*
+
+## Logging
+
+*Libraries for generating and working with log files.*
+
+
+## Testing
+
+*Libraries for testing codebases and generating test data.*
+
+* Testing Frameworks
+
+* Mock
+
+* Fake Data
+
+* Code Coverage
+
+* Load Testing
+
+* Error Handler
+
+
+## Code Analysis and Linter
+
+*Libraries and tools for analysing, parsing and manipulation codebases.*
+
+
+## Debugging Tools
+
+*Libraries for debugging and developing.*
+
+
+## Science and Data Analysis
+
+*Libraries for scientific computing and data analyzing.*
+
+## Data Visualization
+
+*Libraries for visualizing data.*
+
+
+## Machine Learning
+
+*Libraries for Machine Learning.*
+
+
+## Functional Programming
+
+
+## MapReduce
+
+*Framworks and libraries for MapReduce.*
+
+## Third-party APIs
+
+*Libraries for accessing third party APIs.*
+
+
+## DevOps Tools
+
+*Software and libraries for DevOps.*
+
+
+## Foreign Function Interface
+
+*Libraries for providing foreign function interface.*
+
+
+## High Performance
+
+*Libraries for making Ruby faster.*
+
+
+## Algorithms and Design Patterns
+
+*Collections of algorithms and design patterns.*
+
+
+## Miscellaneous
+
+*Useful libraries or tools that don't fit in the categories above.*
+
+
+## Editor Plugins
+
+*Plugins for various editors.*
+
+
+# Resources
+
+Where to discover new Ruby libraries.
+
+## Websites
+
+
+
+## Weekly
+
+
+## Twitter
+
+
+# Contributing
+
+Your contributions are always welcome!
