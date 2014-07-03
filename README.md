@@ -178,6 +178,12 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Content management systems*
 
+  * [Refinery](http://refinerycms.com/)
+  * [Browser](http://www.browsercms.org/)
+  * [Locomotive](http://www.locomotivecms.com/)
+  * [Radiant](http://radiantcms.org/)
+  * [Nesta](http://nestacms.com/)
+
 ## RESTful API
 
 *Libraries for developing RESTful APIs.*
