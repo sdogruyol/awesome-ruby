@@ -113,6 +113,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for generating project documentation.*
 
+  * [rdoc](https://github.com/rdoc/rdoc) HTML and online documentation for Ruby projects
+  * [yard](https://github.com/lsegal/yard) A Ruby Documentation tool
+
 ## Configuration
 
 *Libraries for storing configuration options.*
@@ -128,6 +131,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Imagery
 
 *Libraries for manipulating images.*
+
+  * [rmagick](https://github.com/rmagick/rmagick) An interface to the ImageMagick and GraphicsMagick image processing libraries
+    *  [minimagick](https://github.com/minimagick/minimagick) Minified version of rmagick
+  * [chunky_png](https://github.com/wvanbergen/chunky_png) Read/write access to PNG images in pure Ruby
+  * [image_optim](https://github.com/toy/image_optim) Optimize images using multiple utilities
 
 ## Video
 
@@ -199,11 +207,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Content management systems*
 
-  * [Refinery](http://refinerycms.com/)
-  * [Browser](http://www.browsercms.org/)
-  * [Locomotive](http://www.locomotivecms.com/)
-  * [Radiant](http://radiantcms.org/)
-  * [Nesta](http://nestacms.com/)
+  * [Refinery](http://refinerycms.com/) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
+  * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
+  * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
+  * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
+  * [Radiant](http://radiantcms.org/) A no-fluff, open source content management system
+  * [Nesta](http://nestacms.com/) A lightweight CMS, implemented in Sinatra
+  * [alchemy_cms](https://github.com/magiclabs/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
 
 ## RESTful API
 
@@ -258,9 +268,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries and software for indexing and performing search queries on data.*
 
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
-* [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
-* [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+  * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
+  * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
+  * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 
 ## Asset Management
 
