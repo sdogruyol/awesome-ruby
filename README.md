@@ -142,6 +142,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
   * [geocoder](https://github.com/alexreisner/geocoder) Complete Ruby geocoding solution
+  * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
 
 ## HTTP
 
@@ -260,6 +261,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Internationalization
 
 *Libraries for woking with i18n.*
+
+* [i18n](https://github.com/svenfuchs/i18n) - Basic internationalization(i18n) library for Ruby
 
 ## URL Manipulation
 
