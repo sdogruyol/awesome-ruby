@@ -452,6 +452,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for making Ruby faster.*
 
+* [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
+* [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 
 ## Algorithms and Design Patterns
 
