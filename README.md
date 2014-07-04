@@ -130,6 +130,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for manipulating images.*
 
+* [MiniMagick](https://github.com/minimagick/minimagick) - a ruby wrapper for ImageMagick or GraphicsMagick command line.
+
 ## Audio
 
 *Libraries for manipulating audio.*
