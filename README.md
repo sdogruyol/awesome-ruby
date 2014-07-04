@@ -231,6 +231,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for working with event and task queues.*
 
   * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
+  * [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+  * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
 
 ## Search
