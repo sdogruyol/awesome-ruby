@@ -213,6 +213,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [Warden](https://github.com/hassox/warden) - General Rack Authentication Framework
   * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
   * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
+  * [CanCanCan](https://github.com/CanCanCommunity/cancancan) Authorization gem for Rails (continued version of CanCan from ryanb)
+  * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
 
 ## Template Engine
 
@@ -229,6 +231,15 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
   * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
+  * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
+
+## Site Monitoring
+
+*Libs for analytics, monitoring*
+
+  *[rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
+  *[DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
+  *[Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
 
 ## Search
 
@@ -238,9 +249,13 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Tools for managing, compressing and minifying website assets.*
 
+  * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
+
 ## Caching
 
 *Libraries for caching data.*
+
+  * [rack-cache](https://github.com/rtomayko/rack-cache) HTTP Caching for Ruby Web Apps
 
 ## Email
 
@@ -273,6 +288,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Forms
 
 *Libraries for working with forms.*
+
+  * [simple_form](https://github.com/plataformatec/simple_form) Forms made easy for Rails
+  * [formtastic](https://github.com/justinfrench/formtastic) A Rails form builder plugin with semantically rich and accessible markup
 
 ## Data Validation
 
@@ -324,7 +342,6 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for generating and working with log files.*
 
-
 ## Testing
 
 *Libraries for testing codebases and generating test data.*
@@ -369,14 +386,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for visualizing data.*
 
-
 ## Machine Learning
 
 *Libraries for Machine Learning.*
-
-
-## Functional Programming
-
 
 ## MapReduce
 
@@ -426,6 +438,12 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Plugins for various editors.*
 
+## Starter Apps
+
+*App templates for creating apps quickly*
+
+  * [suspenders](https://github.com/thoughtbot/suspenders) A Rails template with our standard defaults, ready to deploy to Heroku
+  * [ruby2-rails4-bootstrap-heroku](https://github.com/diowa/ruby2-rails4-bootstrap-heroku)
 
 # Resources
 
@@ -434,9 +452,12 @@ Where to discover new Ruby libraries.
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
   * [RubyGems](https://www.rubygems.org)
 
-## Websites
+## People to Follow
 
+*People in Ruby World*
 
+  * [Yukihiro "Matz" Matsumoto](https://twitter.com/yukihiro_matz) Creator of Ruby lang
+  * [David Heinemeier Hansson](https://twitter.com/dhh) Creator of Rails framework
 
 ## Weekly
 
