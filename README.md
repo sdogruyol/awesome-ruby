@@ -254,6 +254,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for caching data.*
 
+* [Dalli](https://github.com/mperham/dalli) - a high performance pure Ruby client for accessing memcached servers.
+
 ## Email
 
 *Libraries for sending and parsing email.*
@@ -272,9 +274,13 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for working with HTML and XML.*
 
+* [Nokogiri](http://nokogiri.org)
+
 ## Web Crawling
 
 *Libraries for scraping websites.*
+
+* [Nokogiri](http://nokogiri.org)
 
 ## Web Content Extracting
 
@@ -317,6 +323,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Processes and Threads
 
 *Libraries for woking with processes or threads*
+
+* [Parallel](https://github.com/grosser/parallel) - Ruby parallel processing made simple and fast
 
 ## Networking
 
