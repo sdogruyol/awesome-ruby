@@ -400,6 +400,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
   * [Vagrant](http://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments.
   * [Capistrano](http://www.capistranorb.com) - Remote multi-server automation tool
+  * [Mina](https://github.com/mina-deploy/mina) Really fast deployer and server automation tool
 
 ## Foreign Function Interface
 
