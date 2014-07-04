@@ -203,10 +203,10 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for developing RESTful APIs.*
 
   * [Grape](http://intridea.github.io/grape/) - An opinionated micro-framework for creating REST-like APIs in Ruby.
-  * [Rails::API](https://github.com/rails-api/rails-api)
-  * [jbuilder](https://github.com/rails/jbuilder)
-  * [rabl](https://github.com/nesquena/rabl)
-  
+  * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications
+  * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
+  * [rabl](https://github.com/nesquena/rabl) - General Ruby templating with json, bson, xml, plist and msgpack support
+
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
