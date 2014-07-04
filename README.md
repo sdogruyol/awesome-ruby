@@ -113,8 +113,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for generating project documentation.*
 
-* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
-* [YARD](http://yardoc.org) - YARD is a documentation generation tool for Ruby. It enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
+  * [rdoc](https://github.com/rdoc/rdoc) HTML and online documentation for Ruby projects
+  * [yard](https://github.com/lsegal/yard) A Ruby Documentation tool
 
 ## Configuration
 
@@ -132,11 +132,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for manipulating images.*
 
-* [MiniMagick](https://github.com/minimagick/minimagick) - a ruby wrapper for ImageMagick or GraphicsMagick command line.
-
-## Audio
-
-*Libraries for manipulating audio.*
+  * [rmagick](https://github.com/rmagick/rmagick) An interface to the ImageMagick and GraphicsMagick image processing libraries
+    *  [minimagick](https://github.com/minimagick/minimagick) Minified version of rmagick
+  * [chunky_png](https://github.com/wvanbergen/chunky_png) Read/write access to PNG images in pure Ruby
+  * [image_optim](https://github.com/toy/image_optim) Optimize images using multiple utilities
 
 ## Video
 
@@ -160,6 +159,14 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
   * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
   * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
+
+## Web Servers
+
+*App server interface*
+
+  * [puma](https://github.com/puma/puma)
+  * [thin](https://github.com/macournoyer/thin)
+  * [trinidad](https://github.com/trinidad/trinidad)
 
 ## Database Drivers
 
@@ -200,11 +207,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Content management systems*
 
-  * [Refinery](http://refinerycms.com/)
-  * [Browser](http://www.browsercms.org/)
-  * [Locomotive](http://www.locomotivecms.com/)
-  * [Radiant](http://radiantcms.org/)
-  * [Nesta](http://nestacms.com/)
+  * [Refinery](http://refinerycms.com/) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
+  * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
+  * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
+  * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
+  * [Radiant](http://radiantcms.org/) A no-fluff, open source content management system
+  * [Nesta](http://nestacms.com/) A lightweight CMS, implemented in Sinatra
+  * [alchemy_cms](https://github.com/magiclabs/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
 
 ## RESTful API
 
@@ -243,7 +252,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for working with event and task queues.*
 
   * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
-  * [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
   * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
@@ -252,17 +260,17 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libs for analytics, monitoring*
 
-  *[rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
-  *[DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
-  *[Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
+  * [rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
+  * [DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
+  * [Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
 
 ## Search
 
 *Libraries and software for indexing and performing search queries on data.*
 
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
-* [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
-* [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+  * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
+  * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
+  * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 
 ## Asset Management
 
@@ -461,10 +469,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Collections of algorithms and design patterns.*
 
-## Style Guide
-
-* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
-* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
 
 ## Miscellaneous
 
