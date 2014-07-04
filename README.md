@@ -136,6 +136,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     *  [minimagick](https://github.com/minimagick/minimagick) Minified version of rmagick
   * [chunky_png](https://github.com/wvanbergen/chunky_png) Read/write access to PNG images in pure Ruby
   * [image_optim](https://github.com/toy/image_optim) Optimize images using multiple utilities
+  * [magickly](https://github.com/afeld/magickly) image manipulation as a (plugin-able) service
 
 ## Video
 
@@ -289,27 +290,34 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for sending and parsing email.*
 
+  * [mail](https://github.com/mikel/mail) A Really Ruby Mail Library
+  * [mailman](https://github.com/titanous/mailman) An incoming mail processing microframework in Ruby
+
 ## Internationalization
 
 *Libraries for woking with i18n.*
 
-* [i18n](https://github.com/svenfuchs/i18n) - Basic internationalization(i18n) library for Ruby
+  * [i18n](https://github.com/svenfuchs/i18n) - Basic internationalization(i18n) library for Ruby
+  * [globalize](https://github.com/globalize/globalize) Rails I18n de-facto standard library for ActiveRecord model/data translation
+  * [i18n-tasks](https://github.com/glebm/i18n-tasks) Manage translations in ruby applications with the awesome power of static analysis
 
 ## URL Manipulation
 
 *Libraries for parsing URLs.*
 
-## HTML Manipulation
+## HTML/XML/CSS Manipulation
 
-*Libraries for working with HTML and XML.*
+*Libraries for working with HTML, XML & CSS.*
 
-* [Nokogiri](http://nokogiri.org)
+  * [Nokogiri](http://nokogiri.org)
+  * [loofah](https://github.com/flavorjones/loofah) A general library for manipulating and transforming HTML/XML documents and fragments
 
 ## Web Crawling
 
 *Libraries for scraping websites.*
 
-* [Nokogiri](http://nokogiri.org)
+  * [upton](https://github.com/propublica/upton) A batteries-included framework for easy web-scraping
+  * [metainspector](https://github.com/jaimeiniesta/metainspector)
 
 ## Web Content Extracting
 
@@ -363,15 +371,15 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for woking with WebSocket.*
 
-* [Faye](http://faye.jcoglan.com/ruby.html) - Simple pub/sub messaging for the web
-* [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
-
-## Cryptography
-
+  * [Faye](http://faye.jcoglan.com/ruby.html) - Simple pub/sub messaging for the web
+  * [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
 
 ## GUI
 
 *Libraries for working with graphical user interface applications.*
+
+  * [shoes](https://github.com/shoes/shoes) A tiny graphical app kit for ruby
+    * [shoes4](https://github.com/shoes/shoes4) the next version of Shoes
 
 ## Game Development
 
@@ -397,7 +405,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ffaker](https://github.com/emmanueloga/ffaker) - Faker Refactored.
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Code Coverage
-
+  * [simplecov](https://github.com/colszowka/simplecov) Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage
 * Load Testing
 
 * Error Handler
@@ -442,6 +450,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [twitter](https://github.com/sferik/twitter) A Ruby interface to the Twitter API
   * [tweetstream](https://github.com/tweetstream/tweetstream) A simple library for consuming Twitter's Streaming API
   * [octokit.rb](https://github.com/octokit/octokit.rb) Ruby toolkit for the GitHub API
+  * [instagram](https://github.com/Instagram/instagram-ruby-gem) The official gem for the Instagram API
+  * [linkedin](https://github.com/hexgnu/linkedin) Ruby wrapper for the LinkedIn API
+  * [twilio-ruby](https://github.com/twilio/twilio-ruby) A Ruby gem for communicating with the Twilio API and generating TwiML
+  * [youtube_it](https://github.com/kylejginavan/youtube_it) An object-oriented Ruby wrapper for the YouTube GData API
 
 ## DevOps Tools
 
@@ -474,6 +486,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Useful libraries or tools that don't fit in the categories above.*
 
+  * [packetfu](https://github.com/packetfu/packetfu) A mid-level packet manipulation library for Ruby.
 
 ## Editor Plugins
 
@@ -484,11 +497,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *App templates for creating apps quickly*
 
   * [suspenders](https://github.com/thoughtbot/suspenders) A Rails template with our standard defaults, ready to deploy to Heroku
-  * [ruby2-rails4-bootstrap-heroku](https://github.com/diowa/ruby2-rails4-bootstrap-heroku)
+  * [ruby2-rails4-bootstrap-heroku](https://github.com/diowa/ruby2-rails4-bootstrap-heroku) A starter application based on Ruby 2, Rails 4 and Bootstrap for Sass, deployable on Heroku
+  * [rails-bootstrap](https://github.com/RailsApps/rails-bootstrap) Rails 4.1 starter app with the Bootstrap front-end framework
+  * [rails4-starterkit](https://github.com/starterkits/rails4-starterkit) Rails 4.1 starter app with production ready performance, security, and authentication
 
 # Resources
 
-Where to discover new Ruby libraries.
+*Where to discover new Ruby libraries.*
 
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
   * [RubyGems](https://www.rubygems.org)
