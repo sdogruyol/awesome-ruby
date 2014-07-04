@@ -334,6 +334,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for woking with WebSocket.*
 
+* [Faye](http://faye.jcoglan.com/ruby.html) - Simple pub/sub messaging for the web
+* [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
+
 ## Cryptography
 
 
