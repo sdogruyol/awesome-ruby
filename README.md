@@ -241,6 +241,10 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries and software for indexing and performing search queries on data.*
 
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
+* [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
+* [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+
 ## Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
