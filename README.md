@@ -248,9 +248,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libs for analytics, monitoring*
 
-  *[rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
-  *[DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
-  *[Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
+  * [rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
+  * [DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
+  * [Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
 
 ## Search
 
