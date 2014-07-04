@@ -111,6 +111,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for generating project documentation.*
 
+* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+* [YARD](http://yardoc.org) - YARD is a documentation generation tool for Ruby. It enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
+
 ## Configuration
 
 *Libraries for storing configuration options.*
