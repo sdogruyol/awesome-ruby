@@ -127,10 +127,6 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for manipulating images.*
 
-## Audio
-
-*Libraries for manipulating audio.*
-
 ## Video
 
 *Libraries for manipulating video and GIFs.*
@@ -153,6 +149,14 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
   * [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
   * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
   * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
+
+## Web Servers
+
+*App server interface*
+
+  * [puma](https://github.com/puma/puma)
+  * [thin](https://github.com/macournoyer/thin)
+  * [trinidad](https://github.com/trinidad/trinidad)
 
 ## Database Drivers
 
@@ -236,7 +240,6 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for working with event and task queues.*
 
   * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
-  * [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
   * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
