@@ -225,6 +225,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
     * [slim-rails](https://github.com/slim-template/slim-rails) Rails port of Slim lang
   * [Haml](https://github.com/haml/haml) HTML Abstraction Markup Language - A Markup Haiku
     * [haml-rails](https://github.com/indirect/haml-rails) Rails port of Haml lang
+  * [Tilt](https://github.com/rtomayko/tilt)
+  * [Liquid](https://github.com/Shopify/liquid)
 
 ## Queue
 
