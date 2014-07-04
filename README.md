@@ -2,6 +2,8 @@
 
 A curated list of awesome Ruby frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-python](https://github.com/vinta/awesome-python).
 
+Your Pull requests are welcome! Let's make this the awesomest resource for Ruby :purple_heart:
+
 - [Awesome Ruby](#awesome-ruby)
     - [Environment Management](#environment-management)
     - [Package Management](#package-management)
@@ -450,6 +452,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for making Ruby faster.*
 
+* [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
+* [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 
 ## Algorithms and Design Patterns
 
