@@ -288,6 +288,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for working with forms.*
 
+* [Simple Form](https://github.com/plataformatec/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+* [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
+
 ## Data Validation
 
 *Libraries for validating data. Used for forms in many cases.*
