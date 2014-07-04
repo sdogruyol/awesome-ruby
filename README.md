@@ -452,6 +452,10 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Collections of algorithms and design patterns.*
 
+## Style Guide
+
+* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
+* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
 
 ## Miscellaneous
 
