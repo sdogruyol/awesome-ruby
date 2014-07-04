@@ -142,6 +142,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
   * [geocoder](https://github.com/alexreisner/geocoder) Complete Ruby geocoding solution
+  * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
 
 ## HTTP
 
@@ -203,6 +204,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for developing RESTful APIs.*
 
   * [Grape](http://intridea.github.io/grape/) - An opinionated micro-framework for creating REST-like APIs in Ruby.
+  * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications
+  * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
+  * [rabl](https://github.com/nesquena/rabl) - General Ruby templating with json, bson, xml, plist and msgpack support
 
 ## Authentication and OAuth
 
@@ -224,12 +228,16 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
     * [slim-rails](https://github.com/slim-template/slim-rails) Rails port of Slim lang
   * [Haml](https://github.com/haml/haml) HTML Abstraction Markup Language - A Markup Haiku
     * [haml-rails](https://github.com/indirect/haml-rails) Rails port of Haml lang
+  * [Tilt](https://github.com/rtomayko/tilt)
+  * [Liquid](https://github.com/Shopify/liquid)
 
 ## Queue
 
 *Libraries for working with event and task queues.*
 
   * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
+  * [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+  * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
 
@@ -245,6 +253,10 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries and software for indexing and performing search queries on data.*
 
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
+* [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
+* [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+
 ## Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
@@ -256,6 +268,7 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 *Libraries for caching data.*
 
   * [rack-cache](https://github.com/rtomayko/rack-cache) HTTP Caching for Ruby Web Apps
+  * [Dalli](https://github.com/mperham/dalli) - a high performance pure Ruby client for accessing memcached servers.
 
 ## Email
 
@@ -265,6 +278,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for woking with i18n.*
 
+* [i18n](https://github.com/svenfuchs/i18n) - Basic internationalization(i18n) library for Ruby
+
 ## URL Manipulation
 
 *Libraries for parsing URLs.*
@@ -273,9 +288,13 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for working with HTML and XML.*
 
+* [Nokogiri](http://nokogiri.org)
+
 ## Web Crawling
 
 *Libraries for scraping websites.*
+
+* [Nokogiri](http://nokogiri.org)
 
 ## Web Content Extracting
 
@@ -319,6 +338,8 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 
 *Libraries for woking with processes or threads*
 
+* [Parallel](https://github.com/grosser/parallel) - Ruby parallel processing made simple and fast
+
 ## Networking
 
 *Libraries for network programming.*
@@ -326,6 +347,9 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## WebSocket
 
 *Libraries for woking with WebSocket.*
+
+* [Faye](http://faye.jcoglan.com/ruby.html) - Simple pub/sub messaging for the web
+* [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
 
 ## Cryptography
 
