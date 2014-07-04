@@ -516,11 +516,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [Yukihiro "Matz" Matsumoto](https://twitter.com/yukihiro_matz) Creator of Ruby lang
   * [David Heinemeier Hansson](https://twitter.com/dhh) Creator of Rails framework
+  * [Aaron Patterson](http://tenderlovemaking.com/)
 
 ## Weekly
 
-  * [Ruby Weekly](http://rubyweekly.com/) A free, once–weekly e-mail round-up of Ruby news and articles.
-
+  * [Ruby Weekly](http://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
+  * [Ruby5](http://ruby5.envylabs.com/) - The latest news in the Ruby and Rails community
 
 ## Twitter
 
