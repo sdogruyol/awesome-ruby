@@ -165,9 +165,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *App server interface*
 
-  * [puma](https://github.com/puma/puma)
-  * [thin](https://github.com/macournoyer/thin)
-  * [trinidad](https://github.com/trinidad/trinidad)
+  * [puma](https://github.com/puma/puma) A simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications.
+  * [thin](https://github.com/macournoyer/thin) A thin and fast web server
+  * [trinidad](https://github.com/trinidad/trinidad) Run Rails or Rack applications within an embedded Apache Tomcat container.
+  * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
+  * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
+  * [pow](https://github.com/37signals/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
 
 ## Database Drivers
 
