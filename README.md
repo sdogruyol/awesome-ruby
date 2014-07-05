@@ -388,6 +388,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Awesome game development libraries.*
 
 ## Logging
+  * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.     
 
 *Libraries for generating and working with log files.*
 
