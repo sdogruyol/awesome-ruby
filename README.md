@@ -82,6 +82,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Package Management
 
 *Libraries for package and dependency management.*
+
   * [RubyGems](https://rubygems.org/) - RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries
 
 ## Distribution
@@ -231,6 +232,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
   * [rabl](https://github.com/nesquena/rabl) - General Ruby templating with json, bson, xml, plist and msgpack support
 
+## E-Commerce & Online Paying
+
+  * [Spree](https://github.com/spree/spree)
+
+
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
@@ -341,6 +347,16 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for downloading.*
 
+## CSS & Styling
+
+  * [sass](https://github.com/sass/sass) A CSS preproccessor
+    * [sass-rails](https://github.com/rails/sass-rails) Rails stylesheet engine for Sass
+  * [less-rails](https://github.com/metaskills/less-rails) The dynamic stylesheet language for the Rails
+  * [compass](https://github.com/Compass/compass) A a Stylesheet Authoring Environment
+  * [bootstrap-sass](https://github.com/twbs/bootstrap-sass) Official Sass port of Bootstrap
+  * [foundation-rails](https://github.com/zurb/foundation-rails) Foundation for Rails
+  * [bootswatch-rails](https://github.com/maxim/bootswatch-rails) Bootswatches converted to SCSS ready to use in Rails
+
 ## Forms
 
 *Libraries for working with forms.*
@@ -377,7 +393,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for woking with processes or threads*
 
-* [Parallel](https://github.com/grosser/parallel) - Ruby parallel processing made simple and fast
+  * [Parallel](https://github.com/grosser/parallel) - Ruby parallel processing made simple and fast
 
 ## Networking
 
@@ -496,8 +512,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for making Ruby faster.*
 
-* [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
-* [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
+  * [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
+  * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 
 ## Algorithms and Design Patterns
 
