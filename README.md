@@ -29,6 +29,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Queue](#queue)
+    - [Push Notification](#push-notification)
     - [Search](#search)
     - [Asset Management](#asset-management)
     - [Caching](#caching)
@@ -263,6 +264,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
+
+## Push Notification
+
+  * [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
+  * [apn_sender](https://github.com/arthurnn/apn_sender) - Background worker to send Apple Push Notifications over a persistent TCP socket.
 
 ## Site Monitoring
 
