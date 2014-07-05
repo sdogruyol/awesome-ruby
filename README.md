@@ -274,6 +274,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
   * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+  * [PgSerach](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
 
 ## Asset Management
 
