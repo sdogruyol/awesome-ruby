@@ -125,7 +125,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for building command-line application.*
 
 * Command-line Application Development
-
+  * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
+  * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
+ 
 * Workflow Tools
 
 ## Imagery
