@@ -29,6 +29,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Queue](#queue)
+    - [Push Notification](#push-notification)
     - [Search](#search)
     - [Asset Management](#asset-management)
     - [Caching](#caching)
@@ -126,7 +127,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for building command-line application.*
 
 * Command-line Application Development
-
+  * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
+  * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
+ 
 * Workflow Tools
 
 ## Imagery
@@ -166,9 +169,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *App server interface*
 
-  * [puma](https://github.com/puma/puma)
-  * [thin](https://github.com/macournoyer/thin)
-  * [trinidad](https://github.com/trinidad/trinidad)
+  * [puma](https://github.com/puma/puma) A simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications.
+  * [thin](https://github.com/macournoyer/thin) A thin and fast web server
+  * [trinidad](https://github.com/trinidad/trinidad) Run Rails or Rack applications within an embedded Apache Tomcat container.
+  * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
+  * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
+  * [pow](https://github.com/37signals/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
 
 ## Database Drivers
 
@@ -241,6 +247,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
   * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
   * [CanCanCan](https://github.com/CanCanCommunity/cancancan) Authorization gem for Rails (continued version of CanCan from ryanb)
+  * [pundit](https://github.com/elabs/pundit) - Minimal authorization using object oriented design.
+  * [authority](https://github.com/nathanl/authority) - ORM neutral authorization.
   * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
 
 ## Template Engine
@@ -263,6 +271,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
 
+## Push Notification
+
+  * [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
+  * [apn_sender](https://github.com/arthurnn/apn_sender) - Background worker to send Apple Push Notifications over a persistent TCP socket.
+
 ## Site Monitoring
 
 *Libs for analytics, monitoring*
@@ -278,6 +291,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
   * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+  * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
 
 ## Asset Management
 
@@ -404,6 +418,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Awesome game development libraries.*
 
 ## Logging
+  * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.     
 
 *Libraries for generating and working with log files.*
 
@@ -414,6 +429,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 * Testing Frameworks
   * [RSpec](http://rspec.info/) - BDD for Ruby
   * [MiniTest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
+  * [Cucumber]
+     * [Cucumber Github](https://github.com/cucumber/cucumber/wiki) - Cucumber is a tool that executes plain-text functional descriptions as automated tests
+     * [Cucumber Site](http://cukes.info/) - Behaviour Driven Development with elegacy and joy
 * Mock
   * [RSpec-mocks](https://github.com/rspec/rspec-mocks) - RSpec's 'test double' framework, with support for stubbing and mocking
   * [Mocha](http://gofreerange.com/mocha/docs/) - Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.
@@ -472,6 +490,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [linkedin](https://github.com/hexgnu/linkedin) Ruby wrapper for the LinkedIn API
   * [twilio-ruby](https://github.com/twilio/twilio-ruby) A Ruby gem for communicating with the Twilio API and generating TwiML
   * [youtube_it](https://github.com/kylejginavan/youtube_it) An object-oriented Ruby wrapper for the YouTube GData API
+  * [flickraw](https://github.com/hanklords/flickraw) Flickraw is a library to access flickr api
+  * [f00px](https://github.com/500px/f00px) Official 500px api ruby gem
 
 ## DevOps Tools
 
