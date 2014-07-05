@@ -235,6 +235,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
   * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
   * [CanCanCan](https://github.com/CanCanCommunity/cancancan) Authorization gem for Rails (continued version of CanCan from ryanb)
+  * [pundit](https://github.com/elabs/pundit) - Minimal authorization using object oriented design.
+  * [authority](https://github.com/nathanl/authority) - ORM neutral authorization.
   * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
 
 ## Template Engine
