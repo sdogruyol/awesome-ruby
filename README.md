@@ -200,6 +200,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 * NoSQL Databases
 
   * [Mongoid](http://mongoid.org) - Mongoid (pronounced mann-goyd) is an Object-Document-Mapper (ODM) for MongoDB written in Ruby.
+  * [Ohm](https://github.com/soveran/ohm) - Object-Hash Mapping for Redis
 
 ## Web Frameworks
 
