@@ -89,9 +89,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries to create packaged executables for release distribution.*
 
-## Files
+## File Uploading
 
-*Libraries for file manipulation and MIME type detection.*
+*Libraries for handling file uploads.*
+
+  * [paperclip](https://github.com/thoughtbot/paperclip) Easy file attachment management for ActiveRecord
+  * [dragonfly](https://github.com/markevans/dragonfly) On-the-fly processing - suitable for image uploading in Rails, Sinatra and much more
+  * [carrierwave](https://github.com/carrierwaveuploader/carrierwave) Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 
 ## Date and Time
 
@@ -129,7 +133,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 * Command-line Application Development
   * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
   * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
- 
+
 * Workflow Tools
 
 ## Imagery
@@ -141,6 +145,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [chunky_png](https://github.com/wvanbergen/chunky_png) Read/write access to PNG images in pure Ruby
   * [image_optim](https://github.com/toy/image_optim) Optimize images using multiple utilities
   * [magickly](https://github.com/afeld/magickly) image manipulation as a (plugin-able) service
+
+## Audio
+
+  * [seal](https://github.com/zhangsu/seal) A C library (with Ruby binding) for 3D audio rendering
 
 ## Video
 
@@ -300,6 +308,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
 
+## Presentation Tools
+
+  * [rabbit](https://github.com/rabbit-shocker/rabbit) A programable presentaton tool by Ruby
+  * [reveal-ck](https://github.com/jedcn/reveal-ck) Reveal.js presentations with a Ruby toolset
+
 ## Caching
 
 *Libraries for caching data.*
@@ -419,7 +432,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Awesome game development libraries.*
 
 ## Logging
-  * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.     
+
+  * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.
 
 *Libraries for generating and working with log files.*
 
@@ -526,6 +540,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Useful libraries or tools that don't fit in the categories above.*
 
   * [packetfu](https://github.com/packetfu/packetfu) A mid-level packet manipulation library for Ruby.
+  * [chatterbot](https://github.com/muffinista/chatterbot) A straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate
+  * [sneakers](https://github.com/jondot/sneakers) A fast background processing framework for Ruby and RabbitMQ
 
 ## Editor Plugins
 
