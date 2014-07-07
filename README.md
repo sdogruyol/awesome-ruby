@@ -562,6 +562,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
   * [RubyGems](https://www.rubygems.org)
+  * [microrb.com](http://microrb.com/)
 
 ## People to Follow
 
