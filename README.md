@@ -247,7 +247,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## E-Commerce & Online Paying
 
-  * [Spree](https://github.com/spree/spree)
+  * [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify.
+  * [Spree](https://github.com/spree/spree) - A complete open source e-commerce solution for Ruby on Rails.
+  * [PayPal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Provides Ruby APIs for processing payments, recurring payments, subscriptions and transactions using PayPal's Merchant APIs.
 
 
 ## Authentication and OAuth
