@@ -248,7 +248,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## E-Commerce & Online Paying
 
-  * [Spree](https://github.com/spree/spree)
+  * [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify.
+  * [Spree](https://github.com/spree/spree) - A complete open source e-commerce solution for Ruby on Rails.
+  * [PayPal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Provides Ruby APIs for processing payments, recurring payments, subscriptions and transactions using PayPal's Merchant APIs.
 
 
 ## Authentication and OAuth
@@ -289,6 +291,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
   * [apn_sender](https://github.com/arthurnn/apn_sender) - Background worker to send Apple Push Notifications over a persistent TCP socket.
+  * [Houston](https://github.com/nomad/houston) - A simple gem for sending Apple Push Notifications.
 
 ## Site Monitoring
 
@@ -306,6 +309,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
+  * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
 
 ## Asset Management
 
@@ -553,6 +557,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Editor Plugins
 
 *Plugins for various editors.*
+  
+  * [vim-ruby](https://github.com/vim-ruby/vim-ruby) Vim/Ruby Configuration Files
+  * [vim-rails](https://github.com/tpope/vim-rails) rails.vim: Ruby on Rails power tools
 
 ## Starter Apps
 
