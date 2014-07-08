@@ -553,6 +553,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Editor Plugins
 
 *Plugins for various editors.*
+  
+  * [vim-ruby](https://github.com/vim-ruby/vim-ruby) Vim/Ruby Configuration Files
+  * [vim-rails](https://github.com/tpope/vim-rails) rails.vim: Ruby on Rails power tools
 
 ## Starter Apps
 
