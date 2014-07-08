@@ -308,6 +308,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
+  * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
 
 ## Asset Management
 
