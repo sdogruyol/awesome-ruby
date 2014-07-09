@@ -93,6 +93,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries to create packaged executables for release distribution.*
 
+  * [fpm](https://github.com/jordansissel/fpm)  Building packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+
 ## File Uploading
 
 *Libraries for handling file uploads.*
@@ -547,6 +549,33 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Collections of algorithms and design patterns.*
 
+## Pagination
+
+  * [kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator
+  * [will_paginate](https://github.com/mislav/will_paginate) Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more
+
+## Scheduling
+
+  * [whenever](https://github.com/javan/whenever) Cron jobs in Ruby
+  * [resque-scheduler](https://github.com/resque/resque-scheduler) A light-weight job scheduling system built on top of resque
+  * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) Scheduler for Ruby
+
+## Static Page Generation
+
+  * [jekyll](https://github.com/jekyll/jekyll) A blog-aware, static site generator in Ruby
+  * [middleman](https://github.com/middleman/middleman)
+
+
+## PDF Processing
+
+  * [wicked_pdf](https://github.com/mileszs/wicked_pdf) PDF generator (from HTML) plugin for Ruby on Rails
+  * [pdfkit](https://github.com/pdfkit/pdfkit) HTML+CSS to PDF using wkhtmltopdf
+  * [prawn](https://github.com/prawnpdf/prawn) Fast, Nimble PDF Writer for Ruby
+
+## Cloud Services
+
+  * [fog](https://github.com/fog/fog) The Ruby cloud services library
+  * [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) The official AWS SDK for Ruby
 
 ## Miscellaneous
 
@@ -555,11 +584,17 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [packetfu](https://github.com/packetfu/packetfu) A mid-level packet manipulation library for Ruby.
   * [chatterbot](https://github.com/muffinista/chatterbot) A straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate
   * [sneakers](https://github.com/jondot/sneakers) A fast background processing framework for Ruby and RabbitMQ
+  * [ransack](https://github.com/activerecord-hackery/ransack) Object-based searching.
+  * [cinch](https://github.com/cinchrb/cinch) The IRC Bot Building Framework
+  * [pry](https://github.com/pry/pry) An IRB alternative and runtime developer console
+  * [friendly_id](https://github.com/norman/friendly_id) Slugging and permalink plugins for ActiveRecord
+  * [backup](https://github.com/meskyanichi/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
+  * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
 
 ## Editor Plugins
 
 *Plugins for various editors.*
-  
+
   * [vim-ruby](https://github.com/vim-ruby/vim-ruby) Vim/Ruby Configuration Files
   * [vim-rails](https://github.com/tpope/vim-rails) rails.vim: Ruby on Rails power tools
 
