@@ -309,6 +309,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
   * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
+  * [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects
 
 ## Asset Management
 
@@ -378,6 +379,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [bootstrap-sass](https://github.com/twbs/bootstrap-sass) Official Sass port of Bootstrap
   * [foundation-rails](https://github.com/zurb/foundation-rails) Foundation for Rails
   * [bootswatch-rails](https://github.com/maxim/bootswatch-rails) Bootswatches converted to SCSS ready to use in Rails
+  * [bourbon](https://github.com/thoughtbot/bourbon) A lightweight mixin library for Sass
 
 ## Forms
 
