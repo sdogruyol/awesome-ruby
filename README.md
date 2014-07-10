@@ -75,6 +75,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [People to Follow](#people-to-follow)
   - [Weekly](#weekly)
   - [Twitter](#twitter)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Environment Management
@@ -592,6 +593,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## Twitter
 
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 
