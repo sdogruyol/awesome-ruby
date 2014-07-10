@@ -610,11 +610,14 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 # Resources
 
-*Where to discover new Ruby libraries.*
+*Where to discover things (libraries, news e.g) about Ruby.*
 
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
   * [RubyGems](https://www.rubygems.org)
-  * [microrb.com](http://microrb.com/)
+  * [RubyDaily](http://rubydaily.org) - Community driven news
+  * [Ruby Weekly](http://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
+  * [Ruby5](http://ruby5.envylabs.com/) - The latest news in the Ruby and Rails community
+  * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
 
 ## People to Follow
 
@@ -627,12 +630,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Avdi Grimm](http://devblog.avdi.org/) - Host of Ruby Tapas webcasts
   * [Aman Gupta](http://tmm1.net/)- Ruby core committer
   
-## Weekly
-
-  * [Ruby Weekly](http://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
-  * [Ruby5](http://ruby5.envylabs.com/) - The latest news in the Ruby and Rails community
-
-## Twitter
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
