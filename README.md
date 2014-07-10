@@ -5,75 +5,176 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 Your Pull requests are welcome! Let's make this the awesomest resource for Ruby :purple_heart:
 
 - [Awesome Ruby](#awesome-ruby)
-  - [Environment Management](#environment-management)
-  - [Package Management](#package-management)
-  - [Distribution](#distribution)
-  - [File Uploading](#file-uploading)
-  - [Date and Time](#date-and-time)
-  - [Text Processing](#text-processing)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Documentation](#documentation)
-  - [Configuration](#configuration)
-  - [Command-line Tools](#command-line-tools)
-  - [Imagery](#imagery)
-  - [Audio](#audio)
-  - [Video](#video)
-  - [Geolocation](#geolocation)
-  - [HTTP](#http)
-  - [Web Servers](#web-servers)
-  - [Database Drivers](#database-drivers)
-  - [ORM](#orm)
-  - [Web Frameworks](#web-frameworks)
-  - [CMS](#cms)
-  - [RESTful API](#restful-api)
-  - [E-Commerce & Online Paying](#e-commerce-&-online-paying)
-  - [Authentication and OAuth](#authentication-and-oauth)
-  - [Template Engine](#template-engine)
-  - [Queue](#queue)
-  - [Push Notification](#push-notification)
-  - [Site Monitoring](#site-monitoring)
-  - [Search](#search)
-  - [Asset Management](#asset-management)
-  - [Presentation Tools](#presentation-tools)
-  - [Caching](#caching)
-  - [Email](#email)
-  - [Internationalization](#internationalization)
-  - [URL Manipulation](#url-manipulation)
-  - [HTML/XML/CSS Manipulation](#htmlxmlcss-manipulation)
-  - [Web Crawling](#web-crawling)
-  - [Web Content Extracting](#web-content-extracting)
-  - [Downloader](#downloader)
-  - [CSS & Styling](#css-&-styling)
-  - [Forms](#forms)
-  - [Data Validation](#data-validation)
-  - [Anti-spam](#anti-spam)
-  - [Tagging](#tagging)
-  - [Build Tools](#build-tools)
   - [Admin Panels](#admin-panels)
-  - [Processes and Threads](#processes-and-threads)
-  - [Networking](#networking)
-  - [WebSocket](#websocket)
-  - [GUI](#gui)
-  - [Game Development](#game-development)
-  - [Logging](#logging)
-  - [Testing](#testing)
+  - [Anti-spam](#anti-spam)
+  - [Asset Management](#asset-management)
+  - [Audio](#audio)
+  - [Authentication and OAuth](#authentication-and-oauth)
+  - [Build Tools](#build-tools)
+  - [Caching](#caching)
+  - [Cloud Services](#cloud-services)
+  - [CMS](#cms)
   - [Code Analysis and Linter](#code-analysis-and-linter)
-  - [Debugging Tools](#debugging-tools)
-  - [Science and Data Analysis](#science-and-data-analysis)
+  - [Command-line Tools](#command-line-tools)
+  - [Configuration](#configuration)
+  - [CSS & Styling](#css-&-styling)
+  - [Data Validation](#data-validation)
   - [Data Visualization](#data-visualization)
+  - [Database Drivers](#database-drivers)
+  - [Date and Time](#date-and-time)
+  - [Debugging Tools](#debugging-tools)
+  - [DevOps Tools](#devops-tools)
+  - [Distribution](#distribution)
+  - [Documentation](#documentation)
+  - [Downloader](#downloader)
+  - [E-Commerce & Online Paying](#e-commerce-&-online-paying)
+  - [E-Mail](#email)
+  - [Environment Management](#environment-management)
+  - [File Uploading](#file-uploading)
+  - [Foreign Function Interface](#foreign-function-interface)
+  - [Forms](#forms)
+  - [Game Development](#game-development)
+  - [Geolocation](#geolocation)
+  - [GUI](#gui)
+  - [High Performance](#high-performance)
+  - [HTML/XML/CSS Manipulation](#htmlxmlcss-manipulation)
+  - [HTTP](#http)
+  - [Imagery](#imagery)
+  - [Internationalization](#internationalization)
+  - [Logging](#logging)
   - [Machine Learning](#machine-learning)
   - [MapReduce](#mapreduce)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Networking](#networking)
+  - [ORM](#orm)
+  - [Package Management](#package-management)
+  - [Presentation Tools](#presentation-tools)
+  - [Processes and Threads](#processes-and-threads)
+  - [Push Notification](#push-notification)
+  - [Queue](#queue)
+  - [RESTful API](#restful-api)
+  - [Science and Data Analysis](#science-and-data-analysis)
+  - [Search](#search)
+  - [Site Monitoring](#site-monitoring)
+  - [Starter Apps](#starter-apps)
+  - [Tagging](#tagging)
+  - [Template Engine](#template-engine)
+  - [Testing](#testing)
+  - [Text Processing](#text-processing)
   - [Third-party APIs](#third-party-apis)
-  - [DevOps Tools](#devops-tools)
-  - [Foreign Function Interface](#foreign-function-interface)
-  - [High Performance](#high-performance)
+  - [URL Manipulation](#url-manipulation)
+  - [Video](#video)
+  - [Web Content Extracting](#web-content-extracting)
+  - [Web Crawling](#web-crawling)
+  - [Web Frameworks](#web-frameworks)
+  - [Web Servers](#web-servers)
+  - [WebSocket](#websocket)
+
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
-  - [Starter Apps](#starter-apps)
 - [Resources](#resources)
   - [People to Follow](#people-to-follow)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+
+## Admin Panels
+
+*Libraries for administrative interfaces.*
+
+  * [active_admin](https://github.com/gregbell/active_admin) The administration framework for Ruby on Rails applications
+  * [rails_admin](https://github.com/sferik/rails_admin) A Rails engine that provides an easy-to-use interface for managing your data
+
+## Anti-spam
+
+*Libraries for fighting spam.*
+
+  * [RubySpamAssassin](https://github.com/noeticpenguin/RubySpamAssassin) Kills Spam Dead. Perhaps before it's sent!
+
+## Asset Management
+
+*Tools for managing, compressing and minifying website assets.*
+
+  * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
+
+## Audio
+
+  * [seal](https://github.com/zhangsu/seal) A C library (with Ruby binding) for 3D audio rendering
+
+## Authentication and OAuth
+
+*Libraries for implementing authentications schemes.*
+
+  * [Devise](https://github.com/plataformatec/devise) - Devise is a flexible authentication solution for Rails based on Warden
+  * [Omniauth](https://github.com/intridea/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware
+  * [Warden](https://github.com/hassox/warden) - General Rack Authentication Framework
+  * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
+  * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
+  * [CanCanCan](https://github.com/CanCanCommunity/cancancan) Authorization gem for Rails (continued version of CanCan from ryanb)
+  * [pundit](https://github.com/elabs/pundit) - Minimal authorization using object oriented design.
+  * [authority](https://github.com/nathanl/authority) - ORM neutral authorization.
+  * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
+
+## Build Tools
+
+*Compile software from source code.*
+
+  * [teapot](https://github.com/ioquatix/teapot) A decentralised build tool for managing complex cross-platform projects
+
+## Caching
+
+*Libraries for caching data.*
+
+  * [rack-cache](https://github.com/rtomayko/rack-cache) HTTP Caching for Ruby Web Apps
+  * [Dalli](https://github.com/mperham/dalli) - a high performance pure Ruby client for accessing memcached servers.
+
+## Cloud Services
+
+  * [fog](https://github.com/fog/fog) The Ruby cloud services library
+  * [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) The official AWS SDK for Ruby
+
+## CMS
+
+*Content management systems*
+
+  * [Refinery](http://refinerycms.com/) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
+  * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
+  * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
+  * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
+  * [Radiant](http://radiantcms.org/) A no-fluff, open source content management system
+  * [Nesta](http://nestacms.com/) A lightweight CMS, implemented in Sinatra
+  * [alchemy_cms](https://github.com/magiclabs/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
+  * [weby](https://github.com/cercomp/weby) Newbie CMS in Ruby on Rails
+
+## Code Analysis and Linter
+
+*Libraries and tools for analysing, parsing and manipulation codebases.*
+
+  * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+  * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
+
+## Command-line Tools
+
+*Libraries for building command-line application.*
+
+  * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
+  * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
+
+## Configuration
+
+*Libraries for storing configuration options.*
+
+## CSS & Styling
+
+  * [sass](https://github.com/sass/sass) A CSS preproccessor
+    * [sass-rails](https://github.com/rails/sass-rails) Rails stylesheet engine for Sass
+  * [less-rails](https://github.com/metaskills/less-rails) The dynamic stylesheet language for the Rails
+  * [compass](https://github.com/Compass/compass) A a Stylesheet Authoring Environment
+  * [bootstrap-sass](https://github.com/twbs/bootstrap-sass) Official Sass port of Bootstrap
+  * [foundation-rails](https://github.com/zurb/foundation-rails) Foundation for Rails
+  * [bootswatch-rails](https://github.com/maxim/bootswatch-rails) Bootswatches converted to SCSS ready to use in Rails
+  * [bourbon](https://github.com/thoughtbot/bourbon) A lightweight mixin library for Sass
+
 
 ## Environment Management
 
@@ -126,16 +227,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [rdoc](https://github.com/rdoc/rdoc) HTML and online documentation for Ruby projects
   * [yard](https://github.com/lsegal/yard) A Ruby Documentation tool
 
-## Configuration
 
-*Libraries for storing configuration options.*
-
-## Command-line Tools
-
-*Libraries for building command-line application.*
-
-  * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
-  * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
 
 ## Imagery
 
@@ -147,9 +239,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [image_optim](https://github.com/toy/image_optim) Optimize images using multiple utilities
   * [magickly](https://github.com/afeld/magickly) image manipulation as a (plugin-able) service
 
-## Audio
-
-  * [seal](https://github.com/zhangsu/seal) A C library (with Ruby binding) for 3D audio rendering
 
 ## Video
 
@@ -221,18 +310,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
   * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
 
-## CMS
-
-*Content management systems*
-
-  * [Refinery](http://refinerycms.com/) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
-  * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
-  * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
-  * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
-  * [Radiant](http://radiantcms.org/) A no-fluff, open source content management system
-  * [Nesta](http://nestacms.com/) A lightweight CMS, implemented in Sinatra
-  * [alchemy_cms](https://github.com/magiclabs/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
-  * [weby](https://github.com/cercomp/weby) Newbie CMS in Ruby on Rails
 
 ## RESTful API
 
@@ -249,20 +326,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Spree](https://github.com/spree/spree) - A complete open source e-commerce solution for Ruby on Rails.
   * [PayPal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Provides Ruby APIs for processing payments, recurring payments, subscriptions and transactions using PayPal's Merchant APIs.
 
-
-## Authentication and OAuth
-
-*Libraries for implementing authentications schemes.*
-
-  * [Devise](https://github.com/plataformatec/devise) - Devise is a flexible authentication solution for Rails based on Warden
-  * [Omniauth](https://github.com/intridea/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware
-  * [Warden](https://github.com/hassox/warden) - General Rack Authentication Framework
-  * [AuthLogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution
-  * [Sorcery](https://github.com/NoamB/sorcery) - Magical authentication for Rails 3 & 4
-  * [CanCanCan](https://github.com/CanCanCommunity/cancancan) Authorization gem for Rails (continued version of CanCan from ryanb)
-  * [pundit](https://github.com/elabs/pundit) - Minimal authorization using object oriented design.
-  * [authority](https://github.com/nathanl/authority) - ORM neutral authorization.
-  * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
 
 ## Template Engine
 
@@ -309,23 +372,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
   * [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects
 
-## Asset Management
-
-*Tools for managing, compressing and minifying website assets.*
-
-  * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
 
 ## Presentation Tools
 
   * [rabbit](https://github.com/rabbit-shocker/rabbit) A programable presentaton tool by Ruby
   * [reveal-ck](https://github.com/jedcn/reveal-ck) Reveal.js presentations with a Ruby toolset
 
-## Caching
-
-*Libraries for caching data.*
-
-  * [rack-cache](https://github.com/rtomayko/rack-cache) HTTP Caching for Ruby Web Apps
-  * [Dalli](https://github.com/mperham/dalli) - a high performance pure Ruby client for accessing memcached servers.
 
 ## Email
 
@@ -368,17 +420,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for downloading.*
 
-## CSS & Styling
-
-  * [sass](https://github.com/sass/sass) A CSS preproccessor
-    * [sass-rails](https://github.com/rails/sass-rails) Rails stylesheet engine for Sass
-  * [less-rails](https://github.com/metaskills/less-rails) The dynamic stylesheet language for the Rails
-  * [compass](https://github.com/Compass/compass) A a Stylesheet Authoring Environment
-  * [bootstrap-sass](https://github.com/twbs/bootstrap-sass) Official Sass port of Bootstrap
-  * [foundation-rails](https://github.com/zurb/foundation-rails) Foundation for Rails
-  * [bootswatch-rails](https://github.com/maxim/bootswatch-rails) Bootswatches converted to SCSS ready to use in Rails
-  * [bourbon](https://github.com/thoughtbot/bourbon) A lightweight mixin library for Sass
-
 ## Forms
 
 *Libraries for working with forms.*
@@ -390,9 +431,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for validating data. Used for forms in many cases.*
 
-## Anti-spam
-
-*Libraries for fighting spam.*
 
 ## Tagging
 
@@ -400,16 +438,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
 
-## Build Tools
 
-*Compile software from source code.*
-
-## Admin Panels
-
-*Libraries for administrative interfaces.*
-
-  * [active_admin](https://github.com/gregbell/active_admin) The administration framework for Ruby on Rails applications
-  * [rails_admin](https://github.com/sferik/rails_admin) A Rails engine that provides an easy-to-use interface for managing your data
 
 ## Processes and Threads
 
@@ -469,13 +498,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 * Error Handler
 
-
-## Code Analysis and Linter
-
-*Libraries and tools for analysing, parsing and manipulation codebases.*
-
-  * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
-  * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
 
 ## Debugging Tools
 
@@ -563,10 +585,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [pdfkit](https://github.com/pdfkit/pdfkit) HTML+CSS to PDF using wkhtmltopdf
   * [prawn](https://github.com/prawnpdf/prawn) Fast, Nimble PDF Writer for Ruby
 
-## Cloud Services
-
-  * [fog](https://github.com/fog/fog) The Ruby cloud services library
-  * [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) The official AWS SDK for Ruby
 
 ## Miscellaneous
 
@@ -619,7 +637,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Aaron Patterson](http://tenderlovemaking.com/) - Committer to Nokogiri, Ruby, and Ruby on Rails
   * [Avdi Grimm](http://devblog.avdi.org/) - Host of Ruby Tapas webcasts
   * [Aman Gupta](http://tmm1.net/)- Ruby core committer
-  
+
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
