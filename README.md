@@ -69,7 +69,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Web Frameworks](#web-frameworks)
   - [Web Servers](#web-servers)
   - [WebSocket](#websocket)
-
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
 - [Resources](#resources)
@@ -181,6 +180,15 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for Ruby version and environment management.*
   * [rvm](https://rvm.io/) - Ruby Version Manager
   * [rbenv](http://rbenv.org/) - Groom your app’s Ruby environment
+
+## Error Handling
+
+*Libraries for exception and error handling.*
+
+  * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application
+  * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
+  * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
+  * [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps
 
 ## Package Management
 
@@ -503,10 +511,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Code Coverage
   * [simplecov](https://github.com/colszowka/simplecov) Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage
-* Load Testing
-
-* Error Handler
-
 
 ## Debugging Tools
 
