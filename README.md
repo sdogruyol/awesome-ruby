@@ -184,6 +184,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
   * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
   * [pow](https://github.com/37signals/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
+  * [goliath](https://github.com/postrank-labs/goliath) is a non-blocking Ruby web server framework.
 
 ## Database Drivers
 
