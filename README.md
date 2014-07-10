@@ -95,6 +95,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Tools for managing, compressing and minifying website assets.*
 
   * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
+  * [rails-assets](https://github.com/rails-assets/rails-assets/) is the frictionless proxy between Bundler and Bower
 
 ## Audio
 
@@ -572,6 +573,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
   * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
   * [pow](https://github.com/37signals/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
+  * [goliath](https://github.com/postrank-labs/goliath) is a non-blocking Ruby web server framework.
 
 ## WebSocket
 
@@ -625,6 +627,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 
 # Other Awesome Lists
+
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
