@@ -315,6 +315,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Tools for managing, compressing and minifying website assets.*
 
   * [sprockets](https://github.com/sstephenson/sprockets) Rack-based asset packaging system
+  * [rails-assets](https://github.com/rails-assets/rails-assets/) is the frictionless proxy between Bundler and Bower
 
 ## Presentation Tools
 
