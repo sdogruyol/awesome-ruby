@@ -67,14 +67,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [DevOps Tools](#devops-tools)
   - [Foreign Function Interface](#foreign-function-interface)
   - [High Performance](#high-performance)
-  - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
   - [Starter Apps](#starter-apps)
 - [Resources](#resources)
   - [People to Follow](#people-to-follow)
-  - [Weekly](#weekly)
-  - [Twitter](#twitter)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -137,11 +134,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for building command-line application.*
 
-* Command-line Application Development
   * [Commander](http://visionmedia.github.io/commander/) - The complete solution for Ruby command-line executables
   * [Thor](https://github.com/erikhuda/thor) - Thor is a toolkit for building powerful command-line interfaces
-
-* Workflow Tools
 
 ## Imagery
 
@@ -545,10 +539,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
   * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
-
-## Algorithms and Design Patterns
-
-*Collections of algorithms and design patterns.*
 
 ## Pagination
 
