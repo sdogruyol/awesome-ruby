@@ -454,6 +454,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [whenever](https://github.com/javan/whenever) Cron jobs in Ruby
   * [resque-scheduler](https://github.com/resque/resque-scheduler) A light-weight job scheduling system built on top of resque
   * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) Scheduler for Ruby
+  * [Clockwork](https://github.com/tomykaira/clockwork) Clockwork is a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates.
 
 ## Science and Data Analysis
 
