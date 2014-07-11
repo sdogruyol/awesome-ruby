@@ -255,6 +255,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for Ruby version and environment management.*
 
   * [chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
+  * [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems
   * [rvm](https://rvm.io/) - Ruby Version Manager
   * [rbenv](http://rbenv.org/) - Groom your app’s Ruby environment
   * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
