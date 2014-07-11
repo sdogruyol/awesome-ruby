@@ -71,6 +71,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [WebSocket](#websocket)
 - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
+- [Gem-Specific Plugins](#gem-specific-plugins)
+  - [Middleman Plugins] (#middleman-plugins)
 - [Resources](#resources)
   - [People to Follow](#people-to-follow)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -174,6 +176,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [foundation-rails](https://github.com/zurb/foundation-rails) Foundation for Rails
   * [bootswatch-rails](https://github.com/maxim/bootswatch-rails) Bootswatches converted to SCSS ready to use in Rails
   * [bourbon](https://github.com/thoughtbot/bourbon) A lightweight mixin library for Sass
+  * [furatto-rails](https://github.com/IcaliaLabs/furatto-rails) Furatto CSS Framework for Rails Asset Pipeline
 
 ## Data Validation
 
@@ -369,6 +372,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Framworks and libraries for MapReduce.*
 
+## Maps
+
+  * [Google-Maps-for-Rails](https://github.com/apneadiving/Google-Maps-for-Rails) Easy Google map + overlays creation in Ruby apps
+  * [leaflet-rails](https://github.com/axyjo/leaflet-rails) A modern JavaScript library for interactive maps on both desktop and mobile
+
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -480,7 +489,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Static Page Generation
 
   * [jekyll](https://github.com/jekyll/jekyll) A blog-aware, static site generator in Ruby
-  * [middleman](https://github.com/middleman/middleman)
+  * [middleman](https://github.com/middleman/middleman) Hand-crafted frontend development
+    * [Middleman Plugins](#middleman-plugins)
 
 ## Starter Apps
 
@@ -490,6 +500,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ruby2-rails4-bootstrap-heroku](https://github.com/diowa/ruby2-rails4-bootstrap-heroku) A starter application based on Ruby 2, Rails 4 and Bootstrap for Sass, deployable on Heroku
   * [rails-bootstrap](https://github.com/RailsApps/rails-bootstrap) Rails 4.1 starter app with the Bootstrap front-end framework
   * [rails4-starterkit](https://github.com/starterkits/rails4-starterkit) Rails 4.1 starter app with production ready performance, security, and authentication
+
+## Syntax Highlighting
+
+  * [rouge](https://github.com/jneen/rouge) A pure-ruby code highlighter that is compatible with pygments
+  * [pygments.rb](https://github.com/tmm1/pygments.rb) pygments syntax highlighting in ruby
 
 ## Text Processing
 
@@ -632,6 +647,15 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [vim-ruby](https://github.com/vim-ruby/vim-ruby) Vim/Ruby Configuration Files
   * [vim-rails](https://github.com/tpope/vim-rails) rails.vim: Ruby on Rails power tools
+
+# Gem-Specific Plugins
+
+## Middleman Plugins
+
+  * [middleman-deploy](https://github.com/karlfreeman/middleman-deploy) Deploy a middleman built site over rsync, ftp, stfp, or git
+  * [middleman-blog](https://github.com/middleman/middleman-blog) Blog engine for Middleman
+  * [middleman-gh-pages](https://github.com/neo/middleman-gh-pages) Easy deployment of Middleman sites to Github Pages
+
 
 # Resources
 
