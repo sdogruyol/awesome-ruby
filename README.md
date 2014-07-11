@@ -200,6 +200,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [RubyGems](https://rubygems.org/) - RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries
   * [Bundler](http://bundler.io) - Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed
   * [Homebrew](http://brew.sh) - Homebrew installs the stuff you need that Apple didn’t
+  * [Homebrew Cask](http://caskroom.io/) - Cask provides a friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries
 
 ## Distribution
 
