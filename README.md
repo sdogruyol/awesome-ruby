@@ -218,6 +218,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for working with dates and times.*
 
+  * [stamp](https://github.com/jeremyw/stamp) Date and time formatting for humans
+
 ## Text Processing
 
 *Libraries for parsing and manipulating texts.*
@@ -554,6 +556,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [fb_graph](https://github.com/nov/fb_graph) A full-stack Facebook Graph API wrapper
   * [twitter](https://github.com/sferik/twitter) A Ruby interface to the Twitter API
   * [tweetstream](https://github.com/tweetstream/tweetstream) A simple library for consuming Twitter's Streaming API
+  * [gitlab](https://github.com/NARKOZ/gitlab) Ruby wrapper and CLI for the GitLab API
   * [octokit.rb](https://github.com/octokit/octokit.rb) Ruby toolkit for the GitHub API
   * [instagram](https://github.com/Instagram/instagram-ruby-gem) The official gem for the Instagram API
   * [linkedin](https://github.com/hexgnu/linkedin) Ruby wrapper for the LinkedIn API
