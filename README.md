@@ -502,6 +502,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * Parser
 
+    * [Yomu](https://github.com/Erol) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
+
 ## Tagging
 
 *Libraries for tagging items.*
