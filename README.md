@@ -558,6 +558,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [instagram](https://github.com/Instagram/instagram-ruby-gem) The official gem for the Instagram API
   * [linkedin](https://github.com/hexgnu/linkedin) Ruby wrapper for the LinkedIn API
   * [twilio-ruby](https://github.com/twilio/twilio-ruby) A Ruby gem for communicating with the Twilio API and generating TwiML
+  * [viewpoint-spws](https://github.com/zenchild/viewpoint-spws) A Microsoft Sharepoint Web Services library for Ruby.
   * [youtube_it](https://github.com/kylejginavan/youtube_it) An object-oriented Ruby wrapper for the YouTube GData API
   * [flickraw](https://github.com/hanklords/flickraw) Flickraw is a library to access flickr api
   * [f00px](https://github.com/500px/f00px) Official 500px api ruby gem
