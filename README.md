@@ -22,6 +22,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [HTTP](#http)
   - [Web Servers](#web-servers)
   - [Database Drivers](#database-drivers)
+  - [Domain Drive Development](#Domain Drive Development)
   - [ORM](#orm)
   - [Web Frameworks](#web-frameworks)
   - [CMS](#cms)
@@ -198,6 +199,18 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) Ruby bindings for the SQLite3 embedded database
 
 * NoSQL Databases
+
+
+## Domain Drive Development
+
+*Domain Drive Development (DDD) Resources.*
+
+* Domain Drive Development (DDD) For Rails
+
+  *[DDD for Rails Developers. Part1](http://www.sitepoint.com/ddd-for-rails-developers-part-1-layered-architecture/) - DDD for Rails Developers. Part 1: Layered Architecture.
+  *[DDD for Rails Developers. Part2](http://www.sitepoint.com/ddd-for-rails-developers-part-2-entities-and-values/) - DDD for Rails Developers. Part 2: Entities and Values
+  *[DDD for Rails Developers. Part2](http://www.sitepoint.com/ddd-for-rails-developers-part-3-aggregates/) - DDD for Rails Developers. Part 3: Aggregates.
+
 
 ## ORM
 
