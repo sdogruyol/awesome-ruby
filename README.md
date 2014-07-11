@@ -69,7 +69,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Web Frameworks](#web-frameworks)
   - [Web Servers](#web-servers)
   - [WebSocket](#websocket)
-
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
 - [Resources](#resources)
@@ -179,8 +178,20 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Environment Management
 
 *Libraries for Ruby version and environment management.*
+  * [chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
   * [rvm](https://rvm.io/) - Ruby Version Manager
   * [rbenv](http://rbenv.org/) - Groom your app’s Ruby environment
+  * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
+  * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
+
+## Error Handling
+
+*Libraries for exception and error handling.*
+
+  * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application
+  * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
+  * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
+  * [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps
 
 ## Package Management
 
@@ -310,6 +321,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Padrino](http://www.padrinorb.com/) - The Godfather of Sinatra provides a full-stack agnostic framework on top of Sinatra
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
   * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
+  * [Pakyow](http://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
 
 
 ## RESTful API
@@ -320,6 +332,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications
   * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
   * [rabl](https://github.com/nesquena/rabl) - General Ruby templating with json, bson, xml, plist and msgpack support
+  * [active_model_serializers](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer implementation and Rails hooks
+  * [oat](https://github.com/ismasan/oat) - Adapters-based API serializers with Hypermedia support for Ruby apps (HAL, Siren, JSONAPI).
 
 ## E-Commerce & Online Paying
 
@@ -475,6 +489,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Awesome game development libraries.*
 
+  * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages
+
 ## Logging
 
   * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.
@@ -501,10 +517,6 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Code Coverage
   * [simplecov](https://github.com/colszowka/simplecov) Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage
-* Load Testing
-
-* Error Handler
-
 
 ## Debugging Tools
 
