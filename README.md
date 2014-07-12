@@ -532,6 +532,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     * [Cucumber]
        * [Cucumber Github](https://github.com/cucumber/cucumber/wiki) - Cucumber is a tool that executes plain-text functional descriptions as automated tests
        * [Cucumber Site](http://cukes.info/) - Behaviour Driven Development with elegacy and joy
+    * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
   * Mock
     * [RSpec-mocks](https://github.com/rspec/rspec-mocks) - RSpec's 'test double' framework, with support for stubbing and mocking
     * [Mocha](http://gofreerange.com/mocha/docs/) - Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.
