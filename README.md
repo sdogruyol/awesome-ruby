@@ -372,6 +372,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for working with human languages.*
 
+* [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby
+
 ## Networking
 
 *Libraries for network programming.*
