@@ -632,6 +632,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [friendly_id](https://github.com/norman/friendly_id) Slugging and permalink plugins for ActiveRecord
   * [backup](https://github.com/meskyanichi/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
   * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
+  * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
 
 ## Editor Plugins
 
