@@ -633,6 +633,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [backup](https://github.com/meskyanichi/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
   * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
   * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
+  * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 
 ## Editor Plugins
 
