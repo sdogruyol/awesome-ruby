@@ -652,6 +652,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Ruby Weekly](http://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
   * [Ruby5](http://ruby5.envylabs.com/) - The latest news in the Ruby and Rails community
   * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
+  * [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems
 
 ## People to Follow
 
