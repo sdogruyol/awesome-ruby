@@ -179,6 +179,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for validating data. Used for forms in many cases.*
 
+  * [kangal](https://github.com/lab2023/kangal) - Extended validation gem for email, subdomain, credit card, tax number etc
+  * [bin_checker](https://github.com/lab2023/bin_checker) - BIN validator for Turkish Banks
+
 ## Data Visualization
 
 *Libraries for visualizing data.*
@@ -303,6 +306,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [geocoder](https://github.com/alexreisner/geocoder) Complete Ruby geocoding solution
   * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
 
+## Git Tools
+
+*Libraries for working with Git VCS*
+
+  * [katip](https://github.com/lab2023/katip) - Change logger for Git initialized projects
+
 ## GUI
 
 *Libraries for working with graphical user interface applications.*
@@ -425,6 +434,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [Parallel](https://github.com/grosser/parallel) - Ruby parallel processing made simple and fast
 
+## Profiling
+
+  * [bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
+
 ## Push Notification
 
   * [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
@@ -494,6 +507,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ruby2-rails4-bootstrap-heroku](https://github.com/diowa/ruby2-rails4-bootstrap-heroku) A starter application based on Ruby 2, Rails 4 and Bootstrap for Sass, deployable on Heroku
   * [rails-bootstrap](https://github.com/RailsApps/rails-bootstrap) Rails 4.1 starter app with the Bootstrap front-end framework
   * [rails4-starterkit](https://github.com/starterkits/rails4-starterkit) Rails 4.1 starter app with production ready performance, security, and authentication
+  * [cybele](https://github.com/lab2023/cybele) - Rails 4.x template with responder, simple form, haml, exception notification, etc ...
 
 ## Text Processing
 
@@ -538,6 +552,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     * [Rubytest](http://rubyworks.github.io/rubytest) - Rubytest is a testing metaframework usedful for create highly customize test suites or building whole new test frameworks.
        * [BRASS](http://rubyworks.github.io/brass) - Bare-metal Ruby assertion system standard used by Rubytest.
        * [Lemon](http://rubyworks.github.io/lemon) - Strict unit test system built on top of Rubytest.
+    * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Collection of testing matchers extracted from Shoulda
+    * [capybara](https://github.com/jnicklas/capybara) - Acceptance test framework for web applications
   * Mock
     * [RSpec-mocks](https://github.com/rspec/rspec-mocks) - RSpec's 'test double' framework, with support for stubbing and mocking
     * [Mocha](http://gofreerange.com/mocha/docs/) - Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.
@@ -637,6 +653,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
   * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
   * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
+  * [blankable](https://github.com/lab2023/blankable) - Adds blank slates to index view in Rails
+  * [tcmb_currency](https://github.com/lab2023/tcmb_currency) - T.C.M.B. currencies for Money Gem
+  * [enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid support
+
 
 ## Editor Plugins
 
