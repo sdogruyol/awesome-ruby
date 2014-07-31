@@ -17,7 +17,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Command-line Tools](#command-line-tools)
   - [Configuration](#configuration)
-  - [CSS & Styling](#css-&-styling)
+  - [CSS & Styling](#css-styling)
   - [Data Validation](#data-validation)
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
