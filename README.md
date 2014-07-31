@@ -17,7 +17,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Command-line Tools](#command-line-tools)
   - [Configuration](#configuration)
-  - [CSS & Styling](#css-styling)
+  - [CSS and Styling](#css-and-styling)
   - [Data Validation](#data-validation)
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
@@ -164,7 +164,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for storing configuration options.*
 
-## CSS & Styling
+## CSS and Styling
 
   * [sass](https://github.com/sass/sass) A CSS preproccessor
     * [sass-rails](https://github.com/rails/sass-rails) Rails stylesheet engine for Sass
