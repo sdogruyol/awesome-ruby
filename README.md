@@ -2,6 +2,8 @@
 
 A curated list of awesome Ruby frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-python](https://github.com/vinta/awesome-python).
 
+## Contribution
+
 Your Pull requests are welcome! Let's make this the awesomest resource for Ruby :purple_heart:
 
 - [Awesome Ruby](#awesome-ruby)
@@ -719,6 +721,3 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-# Contributing
-
-Your Pull requests are welcome! Let's make this the **awesomest** resource for Ruby <3
