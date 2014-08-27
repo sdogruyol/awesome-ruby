@@ -685,7 +685,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [tcmb_currency](https://github.com/lab2023/tcmb_currency) - T.C.M.B. currencies for Money Gem
   * [enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid support
   * [lol_dba](https://github.com/plentz/lol_dba) - lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. 
-
+  * [annotate-models](https://github.com/ctran/annotate_models) - Annotate ActiveRecord models
 
 ## Editor Plugins
 
