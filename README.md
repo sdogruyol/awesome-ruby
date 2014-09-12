@@ -33,6 +33,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [E-Mail](#email)
   - [Environment Management](#environment-management)
   - [File Uploading](#file-uploading)
+  - [Feature Flipping] (#feature-flipping)
   - [Foreign Function Interface](#foreign-function-interface)
   - [Forms](#forms)
   - [Game Development](#game-development)
@@ -283,6 +284,15 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [paperclip](https://github.com/thoughtbot/paperclip) Easy file attachment management for ActiveRecord
   * [dragonfly](https://github.com/markevans/dragonfly) On-the-fly processing - suitable for image uploading in Rails, Sinatra and much more
   * [carrierwave](https://github.com/carrierwaveuploader/carrierwave) Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+
+## Feature flipping
+
+*Libaries for flipping features*
+
+  * [helioth] (https://github.com/gmontard/helioth) Manage feature flipping and rollout
+  * [flipper] (https://github.com/jnunemaker/flipper) feature flipping for ANYTHING
+  * [flip] (https://github.com/pda/flip) Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide)
+  * [rollout] (https://github.com/FetLife/rollout) Feature flippers.
 
 ## Foreign Function Interface
 
