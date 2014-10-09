@@ -429,6 +429,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator
   * [will_paginate](https://github.com/mislav/will_paginate) Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more
+  * [order_query](https://github.com/glebm/order_query) Keyset pagination to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
 
 ## PDF Processing
 
