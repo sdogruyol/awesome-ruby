@@ -698,6 +698,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [lol_dba](https://github.com/plentz/lol_dba) - lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. 
   * [annotate-models](https://github.com/ctran/annotate_models) - Annotate ActiveRecord models
   * [fast_attributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
+  * [Github Changelog Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+
 
 ## Editor Plugins
 
