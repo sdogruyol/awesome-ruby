@@ -156,6 +156,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
   * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
+  * [brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities
 
 ## Command-line Tools
 
@@ -624,6 +625,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [youtube_it](https://github.com/kylejginavan/youtube_it) An object-oriented Ruby wrapper for the YouTube GData API
   * [flickraw](https://github.com/hanklords/flickraw) Flickraw is a library to access flickr api
   * [f00px](https://github.com/500px/f00px) Official 500px api ruby gem
+  * [rspotify](https://github.com/guilhermesad/rspotify) Ruby wrapper for the Spotify Web API
 
 ## URL Manipulation
 
@@ -699,6 +701,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [annotate-models](https://github.com/ctran/annotate_models) - Annotate ActiveRecord models
   * [fast_attributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
   * [Github Changelog Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+  * [Letter Opener](https://github.com/ryanb/letter_opener) — Preview email in the default browser instead of sending it.
+  * [Auto HTML](https://github.com/dejan/auto_html) — Transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...).
 
 
 ## Editor Plugins
