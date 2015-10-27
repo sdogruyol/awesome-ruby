@@ -658,7 +658,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
   * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
   * [Cuba](http://cuba.is/) - Cuba is a microframework for web development originally inspired by Rum, a tiny but powerful mapper for Rack applications.
-  * [Pakyow](http://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
+  * [Pakyow](http://pakyow.org/) - Pakyow is a framework for building modern websites and web apps. Views auto-update to stay in sync with backend state.
 
 ## Web Servers
 
