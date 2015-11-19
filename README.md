@@ -85,7 +85,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for administrative interfaces.*
 
-  * [active_admin](https://github.com/gregbell/active_admin) The administration framework for Ruby on Rails applications
+  * [active_admin](https://github.com/activeadmin/activeadmin) The administration framework for Ruby on Rails applications
   * [rails_admin](https://github.com/sferik/rails_admin) A Rails engine that provides an easy-to-use interface for managing your data
 
 ## Anti-spam
@@ -141,13 +141,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Content management systems*
 
-  * [Refinery](http://refinerycms.com/) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
+  * [Refinery](http://www.refinerycms.com) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
   * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
   * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
   * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
   * [Radiant](http://radiantcms.org/) A no-fluff, open source content management system
   * [Nesta](http://nestacms.com/) A lightweight CMS, implemented in Sinatra
-  * [alchemy_cms](https://github.com/magiclabs/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
+  * [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) the most powerful, user friendly and flexible Rails CMS
   * [weby](https://github.com/cercomp/weby) Newbie CMS in Ruby on Rails
 
 ## Code Analysis and Linter
@@ -223,9 +223,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Software and libraries for DevOps.*
 
   * [Puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
-  * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-  * [Vagrant](http://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments.
-  * [Capistrano](http://www.capistranorb.com) - Remote multi-server automation tool
+  * [Chef](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+  * [Vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
+  * [Capistrano](http://capistranorb.com/) - Remote multi-server automation tool
   * [Mina](https://github.com/mina-deploy/mina) Really fast deployer and server automation tool
 
 ## Distribution
@@ -247,7 +247,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## E-Commerce & Online Paying
 
-  * [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify.
+  * [Active Merchant](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
   * [Spree](https://github.com/spree/spree) - A complete open source e-commerce solution for Ruby on Rails.
   * [PayPal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Provides Ruby APIs for processing payments, recurring payments, subscriptions and transactions using PayPal's Merchant APIs.
 
@@ -256,7 +256,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for sending and parsing email.*
 
   * [mail](https://github.com/mikel/mail) A Really Ruby Mail Library
-  * [mailman](https://github.com/titanous/mailman) An incoming mail processing microframework in Ruby
+  * [mailman](https://github.com/mailman/mailman) An incoming mail processing microframework in Ruby
 
 ## Environment Management
 
@@ -310,7 +310,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Awesome game development libraries.*
 
-  * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages
+  * [Gosu](https://www.libgosu.org/) - A 2D game development library for the Ruby and C++ programming languages
 
 
 ## Geolocation
@@ -338,13 +338,13 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for making Ruby faster.*
 
   * [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
-  * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
+  * [Celluloid](https://celluloid.io/) - Actor-based concurrent object framework for Ruby
 
 ## HTML/XML/CSS Manipulation
 
 *Libraries for working with HTML, XML & CSS.*
 
-  * [Nokogiri](http://nokogiri.org)
+  * [Nokogiri](http://www.nokogiri.org/)
   * [loofah](https://github.com/flavorjones/loofah) A general library for manipulating and transforming HTML/XML documents and fragments
 
 ## HTTP
@@ -353,7 +353,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [httparty](https://github.com/jnunemaker/httparty) Makes http fun again!
   * [faraday](https://github.com/lostisland/faraday) Simple, but flexible HTTP client library, with support for multiple backends.
-  * [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
+  * [http](https://github.com/httprb/http) A simple Ruby DSL for making HTTP requests
   * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
   * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
 
@@ -379,7 +379,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for generating and working with log files.*
 
-  * [Logstash](https://github.com/elasticsearch/logstash) Logstash is a tool for managing events and logs.
+  * [Logstash](https://github.com/elastic/logstash) Logstash is a tool for managing events and logs.
 
 ## Machine Learning
 
@@ -486,7 +486,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [spreadsheet](https://github.com/zdavatz/spreadsheet) - The Spreadsheet Library is designed to read and write Spreadsheet Documents.
   * [axlsx](https://github.com/randym/axlsx) - Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents.
   * [axlsx_rails](https://github.com/straydogstudio/axlsx_rails) - Axlsx_Rails provides an Axlsx renderer so you can move all your spreadsheet code from your controller into view files. 
-  * [roo](https://github.com/Empact/roo) - Roo implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+  * [roo](https://github.com/roo-rb/roo) - Roo implements read access for all spreadsheet types and read/write access for Google spreadsheets.
   * [google-spreadsheet-ruby](https://github.com/gimite/google-spreadsheet-ruby) - This is a library to read/write Google Spreadsheet.
   * [rubyXL](https://github.com/weshatheleopard/rubyXL) - rubyXL is a gem which allows the parsing, creation, and manipulation of Microsoft Excel (.xlsx/.xlsm) Documents
   * [Odf-report](https://github.com/sandrods/odf-report) - Generates ODF files, given a template (.odt) and data, replacing tags
@@ -520,7 +520,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries and software for indexing and performing search queries on data.*
 
   * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
-  * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch
+  * [elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
   * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
@@ -587,7 +587,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     * [MiniTest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
     * [Cucumber]
        * [Cucumber Github](https://github.com/cucumber/cucumber/wiki) - Cucumber is a tool that executes plain-text functional descriptions as automated tests
-       * [Cucumber Site](http://cukes.info/) - Behaviour Driven Development with elegacy and joy
+       * [Cucumber Site](https://cucumber.io/) - Behaviour Driven Development with elegacy and joy
     * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
     * [Rubytest](http://rubyworks.github.io/rubytest) - Rubytest is a testing metaframework usedful for create highly customize test suites or building whole new test frameworks.
        * [BRASS](http://rubyworks.github.io/brass) - Bare-metal Ruby assertion system standard used by Rubytest.
@@ -600,7 +600,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
     * [FlexMock](https://github.com/jimweirich/flexmock) - Flexible mocking for Ruby testing
   * Fake Data
     * [Faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers
-    * [ffaker](https://github.com/emmanueloga/ffaker) - Faker Refactored.
+    * [ffaker](https://github.com/ffaker/ffaker) - Faker Refactored.
     * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
   * Code Coverage
     * [simplecov](https://github.com/colszowka/simplecov) Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage
@@ -658,7 +658,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
   * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
   * [Cuba](http://cuba.is/) - Cuba is a microframework for web development originally inspired by Rum, a tiny but powerful mapper for Rack applications.
-  * [Pakyow](http://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
+  * [Pakyow](https://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
 
 ## Web Servers
 
@@ -669,7 +669,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [trinidad](https://github.com/trinidad/trinidad) Run Rails or Rack applications within an embedded Apache Tomcat container.
   * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
   * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
-  * [pow](https://github.com/37signals/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
+  * [pow](https://github.com/basecamp/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
   * [goliath](https://github.com/postrank-labs/goliath) is a non-blocking Ruby web server framework.
 
 ## WebSocket
@@ -690,10 +690,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [cinch](https://github.com/cinchrb/cinch) The IRC Bot Building Framework
   * [pry](https://github.com/pry/pry) An IRB alternative and runtime developer console
   * [friendly_id](https://github.com/norman/friendly_id) Slugging and permalink plugins for ActiveRecord
-  * [backup](https://github.com/meskyanichi/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
+  * [backup](https://github.com/backup/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
   * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
   * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
-  * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
+  * [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files
   * [blankable](https://github.com/lab2023/blankable) - Adds blank slates to index view in Rails
   * [tcmb_currency](https://github.com/lab2023/tcmb_currency) - T.C.M.B. currencies for Money Gem
   * [enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid support
@@ -717,10 +717,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Where to discover things (libraries, news e.g) about Ruby.*
 
   * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
-  * [RubyGems](https://www.rubygems.org)
+  * [RubyGems](https://rubygems.org/)
   * [RubyDaily](http://rubydaily.org) - Community driven news
   * [Ruby Weekly](http://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
-  * [Ruby5](http://ruby5.envylabs.com/) - The latest news in the Ruby and Rails community
+  * [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community
   * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
   * [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems
 
