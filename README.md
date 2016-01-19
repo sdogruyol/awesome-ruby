@@ -152,7 +152,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## Code Analysis and Linter
 
-*Libraries and tools for analysing, parsing and manipulation codebases.*
+*Libraries and tools for analyzing, parsing and manipulation codebases.*
 
   * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
   * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
@@ -195,7 +195,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## Database Drivers
 
-*Libraties for connecting and operating databases.*
+*Libraries for connecting and operating databases.*
 
   * Relational Databases
     * [ruby-pg](https://bitbucket.org/ged/ruby-pg) Ruby interface to the PostgreSQL >= 8.4
@@ -288,7 +288,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## Feature flipping
 
-*Libaries for flipping features*
+*Libraries for flipping features*
 
   * [helioth] (https://github.com/gmontard/helioth) Manage feature flipping and rollout
   * [flipper] (https://github.com/jnunemaker/flipper) feature flipping for ANYTHING
@@ -338,7 +338,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for making Ruby faster.*
 
   * [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
-  * [Celluloid](https://celluloid.io/) - Actor-based concurrent object framework for Ruby. It's has its own [awesomeness](https://github.com/sashaegorov/awesome-celluloid).
+  * [Celluloid](https://celluloid.io/) - Actor-based concurrent object framework for Ruby. It has its own [awesomeness](https://github.com/sashaegorov/awesome-celluloid).
 
 ## HTML/XML/CSS Manipulation
 
@@ -389,7 +389,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## MapReduce
 
-*Framworks and libraries for MapReduce.*
+*Frameworks and libraries for MapReduce.*
 
 ## Natural Language Processing
 
@@ -403,7 +403,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## ORM
 
-*Libraries that implement Object-Relational Mapping or datamapping techniques.*
+*Libraries that implement Object-Relational Mapping or data mapping techniques.*
 
 * Relational Databases
 
@@ -425,7 +425,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Bundler](http://bundler.io) - Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed
   * [Homebrew](http://brew.sh) - Homebrew installs the stuff you need that Apple didn’t
   * [Homebrew Cask](http://caskroom.io/) - Cask provides a friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries
-  
+
 ## Pagination
 
   * [kaminari](https://github.com/amatsuda/kaminari) A Scope & Engine based, clean, powerful, customizable and sophisticated paginator
@@ -485,7 +485,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [spreadsheet](https://github.com/zdavatz/spreadsheet) - The Spreadsheet Library is designed to read and write Spreadsheet Documents.
   * [axlsx](https://github.com/randym/axlsx) - Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents.
-  * [axlsx_rails](https://github.com/straydogstudio/axlsx_rails) - Axlsx_Rails provides an Axlsx renderer so you can move all your spreadsheet code from your controller into view files. 
+  * [axlsx_rails](https://github.com/straydogstudio/axlsx_rails) - Axlsx_Rails provides an Axlsx renderer so you can move all your spreadsheet code from your controller into view files.
   * [roo](https://github.com/roo-rb/roo) - Roo implements read access for all spreadsheet types and read/write access for Google spreadsheets.
   * [google-spreadsheet-ruby](https://github.com/gimite/google-spreadsheet-ruby) - This is a library to read/write Google Spreadsheet.
   * [rubyXL](https://github.com/weshatheleopard/rubyXL) - rubyXL is a gem which allows the parsing, creation, and manipulation of Microsoft Excel (.xlsx/.xlsm) Documents
@@ -589,7 +589,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
        * [Cucumber Github](https://github.com/cucumber/cucumber/wiki) - Cucumber is a tool that executes plain-text functional descriptions as automated tests
        * [Cucumber Site](https://cucumber.io/) - Behaviour Driven Development with elegacy and joy
     * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
-    * [Rubytest](http://rubyworks.github.io/rubytest) - Rubytest is a testing metaframework usedful for create highly customize test suites or building whole new test frameworks.
+    * [Rubytest](http://rubyworks.github.io/rubytest) - Rubytest is a testing meta-framework useful for creating highly customize test suites or building whole new test frameworks.
        * [BRASS](http://rubyworks.github.io/brass) - Bare-metal Ruby assertion system standard used by Rubytest.
        * [Lemon](http://rubyworks.github.io/lemon) - Strict unit test system built on top of Rubytest.
     * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Collection of testing matchers extracted from Shoulda
@@ -635,7 +635,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for manipulating video and GIFs.*
 
-  * [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
+  * [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) Simple yet powerful ruby FFmpeg wrapper for reading metadata and transcoding movies
 
 ## Web Content Extracting
 
@@ -668,7 +668,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [thin](https://github.com/macournoyer/thin) A thin and fast web server
   * [trinidad](https://github.com/trinidad/trinidad) Run Rails or Rack applications within an embedded Apache Tomcat container.
   * [unicorn](https://github.com/defunkt/unicorn) An HTTP server for Rack applications designed to only serve fast clients.
-  * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python and Node.js.
+  * [passenger](https://github.com/phusion/passenger) A modern web server and application server for Ruby, Python, and Node.js.
   * [pow](https://github.com/basecamp/pow) Pow treats files and directories as ruby objects giving you more power and flexibility.
   * [goliath](https://github.com/postrank-labs/goliath) is a non-blocking Ruby web server framework.
 
@@ -697,7 +697,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [blankable](https://github.com/lab2023/blankable) - Adds blank slates to index view in Rails
   * [tcmb_currency](https://github.com/lab2023/tcmb_currency) - T.C.M.B. currencies for Money Gem
   * [enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid support
-  * [lol_dba](https://github.com/plentz/lol_dba) - lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. 
+  * [lol_dba](https://github.com/plentz/lol_dba) - lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed.
   * [annotate-models](https://github.com/ctran/annotate_models) - Annotate ActiveRecord models
   * [fast_attributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
   * [Github Changelog Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -739,4 +739,3 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
