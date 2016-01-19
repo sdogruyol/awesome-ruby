@@ -338,7 +338,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for making Ruby faster.*
 
   * [EventMachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
-  * [Celluloid](https://celluloid.io/) - Actor-based concurrent object framework for Ruby
+  * [Celluloid](https://celluloid.io/) - Actor-based concurrent object framework for Ruby. It's has its own [awesomeness](https://github.com/sashaegorov/awesome-celluloid).
 
 ## HTML/XML/CSS Manipulation
 
