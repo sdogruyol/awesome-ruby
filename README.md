@@ -87,6 +87,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [active_admin](https://github.com/activeadmin/activeadmin) The administration framework for Ruby on Rails applications
   * [rails_admin](https://github.com/sferik/rails_admin) A Rails engine that provides an easy-to-use interface for managing your data
+  * [administrate](https://github.com/thoughtbot/administrate) A framework for creating flexible, powerful admin dashboards in Rails.
 
 ## Anti-spam
 
