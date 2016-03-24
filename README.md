@@ -142,7 +142,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Content management systems*
 
-  * [Refinery](http://www.refinerycms.com) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4
+  * [Refinery CMS](http://www.refinerycms.com) An extendable Ruby on Rails CMS that supports Rails 3.2 and 4.2
   * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) A powerful Rails 4 CMS Engine
   * [Browser](http://www.browsercms.org/) Humane Content Management for Rails
   * [Locomotive](http://www.locomotivecms.com/) a brand new CMS system with super sexy UI and cool features
