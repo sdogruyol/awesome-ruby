@@ -286,6 +286,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [paperclip](https://github.com/thoughtbot/paperclip) Easy file attachment management for ActiveRecord
   * [dragonfly](https://github.com/markevans/dragonfly) On-the-fly processing - suitable for image uploading in Rails, Sinatra and much more
   * [carrierwave](https://github.com/carrierwaveuploader/carrierwave) Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+  * [attache](https://github.com/choonkeat/attache) - Yet another approach to file upload https://attache-demo.herokuapp.com
 
 ## Feature flipping
 
