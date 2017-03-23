@@ -534,6 +534,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [rack-google-analytics](https://github.com/kangguru/rack-google-analytics) Simple Rack middleware for implementing google analytics tracking
   * [DataDog](https://github.com/DataDog/dogapi-rb) A monitoring service for IT, operations and development teams
+  * [Instrumental](https://github.com/Instrumental/instrumental_agent-ruby) High-scale, non-blocking agent for [Instrumental](https://instrumentalapp.com) application monitoring
   * [Keen IO](https://github.com/keenlabs/keen-gem) Build analytics features directly into your Ruby apps
 
 ## Static Page Generation
