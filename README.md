@@ -292,10 +292,10 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for flipping features*
 
-  * [helioth] (https://github.com/gmontard/helioth) Manage feature flipping and rollout
-  * [flipper] (https://github.com/jnunemaker/flipper) feature flipping for ANYTHING
-  * [flip] (https://github.com/pda/flip) Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide)
-  * [rollout] (https://github.com/FetLife/rollout) Feature flippers.
+  * [helioth](https://github.com/gmontard/helioth) Manage feature flipping and rollout
+  * [flipper](https://github.com/jnunemaker/flipper) feature flipping for ANYTHING
+  * [flip](https://github.com/pda/flip) Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide)
+  * [rollout](https://github.com/FetLife/rollout) Feature flippers.
 
 ## Foreign Function Interface
 
