@@ -524,6 +524,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
   * [elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch
   * [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
+  * [Algoliasearch Rails](https://github.com/algolia/algoliasearch-rails/) - AlgoliaSearch integration to your favorite ORM
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
   * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
   * [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects
