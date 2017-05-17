@@ -436,6 +436,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 ## PDF Processing
 
+  * [DocRaptor](https://github.com/DocRaptor/docraptor-ruby) Wrapper library for [DocRaptor's](https://docraptor.com) Ruby-based HTML-to-PDF API
   * [wicked_pdf](https://github.com/mileszs/wicked_pdf) PDF generator (from HTML) plugin for Ruby on Rails
   * [pdfkit](https://github.com/pdfkit/pdfkit) HTML+CSS to PDF using wkhtmltopdf
   * [prawn](https://github.com/prawnpdf/prawn) Fast, Nimble PDF Writer for Ruby
