@@ -239,6 +239,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for generating project documentation.*
 
+  * [Dictum](https://github.com/Wolox/dictum) - A tool that let's you create automatic documentation of your Rails API endpoints through your tests.
   * [rdoc](https://github.com/rdoc/rdoc) HTML and online documentation for Ruby projects
   * [yard](https://github.com/lsegal/yard) A Ruby Documentation tool
 
