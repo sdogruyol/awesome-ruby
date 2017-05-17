@@ -246,6 +246,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for downloading.*
 
+  * [GitHub Starred Repos Downloader](https://github.com/LeonardoCardoso/gsrd) -  gsrd downloads your public starred repos. Just in case you want to keep a backup of them from time to time.
+
 ## E-Commerce & Online Paying
 
   * [Active Merchant](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
