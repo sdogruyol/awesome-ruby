@@ -228,6 +228,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
   * [Capistrano](http://capistranorb.com/) - Remote multi-server automation tool
   * [Mina](https://github.com/mina-deploy/mina) Really fast deployer and server automation tool
+  * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, Ruby environments deployable anywhere https://nanobox.io.
 
 ## Distribution
 
@@ -272,6 +273,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [rbenv](http://rbenv.org/) - Groom your app’s Ruby environment
   * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
   * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
+  * [Nanobox](https://github.com/nanobox-io/nanobox) - A tool for creating isolated Ruby environments for consistency across teams and application stages (dev, staging, production, etc.) https://nanobox.io.
 
 ## Error Handling
 
