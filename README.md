@@ -119,6 +119,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [pundit](https://github.com/elabs/pundit) - Minimal authorization using object oriented design.
   * [authority](https://github.com/nathanl/authority) - ORM neutral authorization.
   * [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) An OAuth 2 provider for Rails
+  * [tiddle](https://github.com/adamniedzielski/tiddle/) - Devise strategy for token authentication in API-only Ruby on Rails applications
 
 ## Build Tools
 
@@ -158,6 +159,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
   * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
   * [brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities
+  * [reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 
 ## Command-line Tools
 
@@ -210,6 +212,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for working with dates and times.*
 
   * [stamp](https://github.com/jeremyw/stamp) Date and time formatting for humans
+  * [chronic](https://github.com/mojombo/chronic) Natural language date/time parser
 
 
 ## Debugging Tools
@@ -699,6 +702,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ransack](https://github.com/activerecord-hackery/ransack) Object-based searching.
   * [cinch](https://github.com/cinchrb/cinch) The IRC Bot Building Framework
   * [pry](https://github.com/pry/pry) An IRB alternative and runtime developer console
+  * [jazz_hands](https://github.com/nixme/jazz_hands/) Pry-based enhancements for the default Rails 3 and 4 consoles
+  * [awesome_print](https://github.com/awesome-print/awesome_print) A Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
   * [friendly_id](https://github.com/norman/friendly_id) Slugging and permalink plugins for ActiveRecord
   * [backup](https://github.com/backup/backup) An elegant DSL in Ruby for performing backups on UNIX-like systems
   * [kss](https://github.com/kneath/kss) Documenting CSS and generating styleguides
