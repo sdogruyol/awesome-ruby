@@ -11,6 +11,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Anti-spam](#anti-spam)
   - [Asset Management](#asset-management)
   - [Audio](#audio)
+  - [Auditing](#auditing)
   - [Authentication and OAuth](#authentication-and-oauth)
   - [Build Tools](#build-tools)
   - [Caching](#caching)
@@ -33,7 +34,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [E-Mail](#email)
   - [Environment Management](#environment-management)
   - [File Uploading](#file-uploading)
-  - [Feature Flipping] (#feature-flipping)
+  - [Feature Flipping](#feature-flipping)
   - [Foreign Function Interface](#foreign-function-interface)
   - [Forms](#forms)
   - [Game Development](#game-development)
@@ -47,6 +48,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
   - [MapReduce](#mapreduce)
+  - [Multi-tenancy](#multi-tenancy)
   - [Natural Language Processing](#natural-language-processing)
   - [Networking](#networking)
   - [ORM](#orm)
@@ -105,6 +107,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## Audio
 
   * [seal](https://github.com/zhangsu/seal) A C library (with Ruby binding) for 3D audio rendering
+
+## Auditing
+
+  *Tools for logging changes to ActiveRecord models*
+
+  * [Audited](https://github.com/collectiveidea/audited) - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
 
 ## Authentication and OAuth
 
@@ -392,6 +400,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 ## MapReduce
 
 *Frameworks and libraries for MapReduce.*
+
+## Multi-tenancy
+
+*Libraries for managing multi-tenant apps.*
+
+* [Apartment](https://github.com/influitive/apartment) - Database multi-tenancy for Rack (and Rails) applications
 
 ## Natural Language Processing
 
