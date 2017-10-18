@@ -525,6 +525,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [oxcelix](https://github.com/gbiczo/oxcelix) - A fast Excel 2007/2010 (.xlsx) file parser that returns a collection of Matrix objects
   * [wrap_excel](https://github.com/tomiacannondale/wrap_excel) - WrapExcel is to wrap the win32ole, and easy to use Excel operations with ruby. Detailed description please see the README.
   * [write_xlsx_rails](https://github.com/maxd/write_xlsx_rails) - xlsx renderer for Rails base on write_xlsx gem
+  * [Fastsheet](https://github.com/dkkoval/fastsheet) - Fast spreadsheet reader using Rust native extensions.
 
 ## Scheduling
 
