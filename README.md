@@ -459,6 +459,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [wicked_pdf](https://github.com/mileszs/wicked_pdf) PDF generator (from HTML) plugin for Ruby on Rails
   * [pdfkit](https://github.com/pdfkit/pdfkit) HTML+CSS to PDF using wkhtmltopdf
   * [prawn](https://github.com/prawnpdf/prawn) Fast, Nimble PDF Writer for Ruby
+  * [InvoicePrinter](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ## Presentation Tools
 
