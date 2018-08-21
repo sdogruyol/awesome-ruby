@@ -323,6 +323,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [simple_form](https://github.com/plataformatec/simple_form) Forms made easy for Rails
   * [formtastic](https://github.com/justinfrench/formtastic) A Rails form builder plugin with semantically rich and accessible markup
+  * [bootstrap_form](https://github.com/bootstrap-ruby/bootstrap_form) A Rails form builder that makes it super easy to integrate Bootstrap v4-style forms into your Rails application
 
 ## Game Development
 
