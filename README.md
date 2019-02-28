@@ -726,6 +726,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ransack](https://github.com/activerecord-hackery/ransack) Object-based searching.
   * [cinch](https://github.com/cinchrb/cinch) The IRC Bot Building Framework
   * [pry](https://github.com/pry/pry) An IRB alternative and runtime developer console
+  * [rib](http://rib.godfat.org/) A lightweight and extensible IRB replacement
   * [jazz_hands](https://github.com/nixme/jazz_hands/) Pry-based enhancements for the default Rails 3 and 4 consoles
   * [awesome_print](https://github.com/awesome-print/awesome_print) A Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
   * [friendly_id](https://github.com/norman/friendly_id) Slugging and permalink plugins for ActiveRecord
