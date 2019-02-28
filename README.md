@@ -114,6 +114,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   *Tools for logging changes to ActiveRecord models*
 
   * [Audited](https://github.com/collectiveidea/audited) - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
+  * [Logidze](https://github.com/palkan/logidze) - Logs model changes via database triggers (PL/SQL functions). Fastest model diffs. PostgreSQL 9.5+ only.
 
 ## Authentication and OAuth
 
