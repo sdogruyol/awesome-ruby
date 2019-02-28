@@ -688,7 +688,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
   * [Cuba](http://cuba.is/) - Cuba is a microframework for web development originally inspired by Rum, a tiny but powerful mapper for Rack applications.
   * [Pakyow](https://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
-  * [Hyperloop](http://ruby-hyperloop.io/) - A complete Isomorphic Ruby Framework using React, Opal and Rails
+  * [Hyperstack](https://hyperstack.org/) - A complete Isomorphic Ruby Framework using React, Opal and Rails
 
 ## Web Servers
 
