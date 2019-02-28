@@ -376,6 +376,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [http](https://github.com/httprb/http) A simple Ruby DSL for making HTTP requests
   * [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
   * [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
+  * [response_code](https://github.com/torokmark/response_code) Response Code in readable way
 
 ## Imagery
 
