@@ -744,6 +744,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Letter Opener](https://github.com/ryanb/letter_opener) — Preview email in the default browser instead of sending it.
   * [Auto HTML](https://github.com/dejan/auto_html) — Transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...).
   * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
+  * [BetterDocs](https://github/khusnetdinov/betterdocs) - Documentation with collection practices in ruby. Good for new ruby developers and beginners.
 
 
 ## Editor Plugins
