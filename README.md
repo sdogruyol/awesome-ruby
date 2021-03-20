@@ -231,6 +231,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
   * [byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby 2
   * [debugger](https://github.com/cldwalker/debugger) - port of ruby-debug that works on 1.9.2 and 1.9.3
+  * [puts_debuggerer](https://github.com/AndyObtiva/puts_debuggerer) - Debugger-less debugging FTW
 
 ## DevOps Tools
 
@@ -310,6 +311,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for flipping features*
 
+  * [abstract_feature_branch](https://github.com/AndyObtiva/abstract_feature_branch) a gem that enables developers to easily branch by abstraction
   * [helioth](https://github.com/gmontard/helioth) Manage feature flipping and rollout
   * [flipper](https://github.com/jnunemaker/flipper) feature flipping for ANYTHING
   * [flip](https://github.com/pda/flip) Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide)
@@ -351,8 +353,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 
 *Libraries for working with graphical user interface applications.*
 
+  * [glimmer](https://github.com/AndyObtiva/glimmer) Ruby Desktop Development GUI Library
   * [shoes](https://github.com/shoes/shoes) A tiny graphical app kit for ruby
-    * [shoes4](https://github.com/shoes/shoes4) the next version of Shoes
+  * [shoes4](https://github.com/shoes/shoes4) the next version of Shoes
 
 ## High Performance
 
