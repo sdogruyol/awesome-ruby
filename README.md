@@ -170,6 +170,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) - ruby-lint is a static code analysis tool for Ruby
   * [brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities
   * [reek](https://github.com/troessner/reek) - Code smell detector for Ruby
+  * [Breezer](https://github.com/lambda2/breezer) - Lock your Gemfile dependencies to safe versions.
 
 ## Command-line Tools
 
