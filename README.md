@@ -493,6 +493,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
   * [apn_sender](https://github.com/arthurnn/apn_sender) - Background worker to send Apple Push Notifications over a persistent TCP socket.
   * [Houston](https://github.com/nomad/houston) - A simple gem for sending Apple Push Notifications.
+  * [webpush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol
 
 ## Queue
 
