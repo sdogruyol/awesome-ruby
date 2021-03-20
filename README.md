@@ -513,7 +513,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [rabl](https://github.com/nesquena/rabl) - General Ruby templating with json, bson, xml, plist and msgpack support
   * [active_model_serializers](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer implementation and Rails hooks
   * [oat](https://github.com/ismasan/oat) - Adapters-based API serializers with Hypermedia support for Ruby apps (HAL, Siren, JSONAPI).
-  
+  * [APIcasso](https://github.com/ErvalhouS/APIcasso) - An abstract API design as a Rails-based mountable engine. RESTfullize your legacy code.
+
 ## Serverless
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 
