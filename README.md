@@ -413,6 +413,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for Machine Learning.*
 
   * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them
+  * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 
 ## MapReduce
 
