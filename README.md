@@ -5,83 +5,36 @@ A curated list of awesome Ruby frameworks, libraries and resources. Inspired by 
 ## Contribution
 
 Your Pull requests are welcome! Let's make this the awesomest resource for Ruby :purple_heart:
+| Resources| | |
+| ------------- | ------------- | -------- |
+|- [Awesome Ruby](#awesome-ruby) |   - [Admin Panels](#admin-panels)|- [Anti-spam](#anti-spam) |
+|  - [Asset Management](#asset-management) | - [Audio](#audio) | - [Auditing](#auditing) |
+|- [Authentication and OAuth](#authentication-and-oauth) |- [Build Tools](#build-tools) |- [Caching](#caching) |
+| - [Cloud Services](#cloud-services) |- [CMS](#cms) |- [Code Analysis and Linter](#code-analysis-and-linter) |
+|  - [Command-line Tools](#command-line-tools) |  - [Configuration](#configuration) |  - [CSS and Styling](#css-and-styling) |
+|- [Data Validation](#data-validation) |- [Data Visualization](#data-visualization) |- [Database Drivers](#database-drivers) |
+|- [Date and Time](#date-and-time) | - [Debugging Tools](#debugging-tools) |- [DevOps Tools](#devops-tools) |
+|- [Distribution](#distribution) | - [Documentation](#documentation) | - [Downloader](#downloader) |
+|  - [E-Commerce & Online Paying](#e-commerce--online-paying) | - [E-Mail](#e-mail) |- [Environment Management](#environment-management) |
+| - [File Uploading](#file-uploading) |  - [Feature Flipping](#feature-flipping) |  - [Foreign Function Interface](#foreign-function-interface) |
+|  - [Forms](#forms) |  - [Game Development](#game-development) |- [Geolocation](#geolocation) |
+|  - [GUI](#gui) |- [High Performance](#high-performance) |  - [HTML/XML/CSS Manipulation](#htmlxmlcss-manipulation) |
+|- [HTTP](#http) |- [Imagery](#imagery) |- [Internationalization](#internationalization) |
+|  - [Logging](#logging) |  - [Machine Learning](#machine-learning) |- [MapReduce](#mapreduce) |
+|- [Multi-tenancy](#multi-tenancy) |- [Natural Language Processing](#natural-language-processing) | - [Networking](#networking) |
+| - [ORM](#orm) |- [Package Management](#package-management) |  - [Presentation Tools](#presentation-tools) |
+|- [Processes and Threads](#processes-and-threads) |  - [Push Notification](#push-notification) |  - [Queue](#queue) |
+|  - [Serverless](#serverless) | - [Spreadsheets](#spreadsheets) |  - [RESTful API](#restful-api) |
+|- [Science and Data Analysis](#science-and-data-analysis) |- [Search](#search) | - [Site Monitoring](#site-monitoring) |
+|  - [Starter Apps](#starter-apps) |- [Tagging](#tagging) |- [Template Engine](#template-engine) |
+| - [Testing](#testing) |  - [Text Processing](#text-processing) |  - [Third-party APIs](#third-party-apis) |
+|  - [URL Manipulation](#url-manipulation) |  - [Video](#video) |- [Web Content Extracting](#web-content-extracting) |
+|  - [Web Crawling](#web-crawling) |- [Web Frameworks](#web-frameworks) |- [Web Servers](#web-servers) |
+|  - [WebSocket](#websocket) |- [Miscellaneous](#miscellaneous) |- [Editor Plugins](#editor-plugins) |
+|- [Resources](#resources) |  - [People to Follow](#people-to-follow) |- [Other Awesome Lists](#other-awesome-lists) |
+|- [Contributing](#contributing) | | |
 
-- [Awesome Ruby](#awesome-ruby)
-  - [Admin Panels](#admin-panels)
-  - [Anti-spam](#anti-spam)
-  - [Asset Management](#asset-management)
-  - [Audio](#audio)
-  - [Auditing](#auditing)
-  - [Authentication and OAuth](#authentication-and-oauth)
-  - [Build Tools](#build-tools)
-  - [Caching](#caching)
-  - [Cloud Services](#cloud-services)
-  - [CMS](#cms)
-  - [Code Analysis and Linter](#code-analysis-and-linter)
-  - [Command-line Tools](#command-line-tools)
-  - [Configuration](#configuration)
-  - [CSS and Styling](#css-and-styling)
-  - [Data Validation](#data-validation)
-  - [Data Visualization](#data-visualization)
-  - [Database Drivers](#database-drivers)
-  - [Date and Time](#date-and-time)
-  - [Debugging Tools](#debugging-tools)
-  - [DevOps Tools](#devops-tools)
-  - [Distribution](#distribution)
-  - [Documentation](#documentation)
-  - [Downloader](#downloader)
-  - [E-Commerce & Online Paying](#e-commerce--online-paying)
-  - [E-Mail](#e-mail)
-  - [Environment Management](#environment-management)
-  - [File Uploading](#file-uploading)
-  - [Feature Flipping](#feature-flipping)
-  - [Foreign Function Interface](#foreign-function-interface)
-  - [Forms](#forms)
-  - [Game Development](#game-development)
-  - [Geolocation](#geolocation)
-  - [GUI](#gui)
-  - [High Performance](#high-performance)
-  - [HTML/XML/CSS Manipulation](#htmlxmlcss-manipulation)
-  - [HTTP](#http)
-  - [Imagery](#imagery)
-  - [Internationalization](#internationalization)
-  - [Logging](#logging)
-  - [Machine Learning](#machine-learning)
-  - [MapReduce](#mapreduce)
-  - [Multi-tenancy](#multi-tenancy)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Networking](#networking)
-  - [ORM](#orm)
-  - [Package Management](#package-management)
-  - [Presentation Tools](#presentation-tools)
-  - [Processes and Threads](#processes-and-threads)
-  - [Push Notification](#push-notification)
-  - [Queue](#queue)
-  - [Serverless](#serverless)
-  - [Spreadsheets](#spreadsheets)
-  - [RESTful API](#restful-api)
-  - [Science and Data Analysis](#science-and-data-analysis)
-  - [Search](#search)
-  - [Site Monitoring](#site-monitoring)
-  - [Starter Apps](#starter-apps)
-  - [Tagging](#tagging)
-  - [Template Engine](#template-engine)
-  - [Testing](#testing)
-  - [Text Processing](#text-processing)
-  - [Third-party APIs](#third-party-apis)
-  - [URL Manipulation](#url-manipulation)
-  - [Video](#video)
-  - [Web Content Extracting](#web-content-extracting)
-  - [Web Crawling](#web-crawling)
-  - [Web Frameworks](#web-frameworks)
-  - [Web Servers](#web-servers)
-  - [WebSocket](#websocket)
-- [Miscellaneous](#miscellaneous)
-  - [Editor Plugins](#editor-plugins)
-- [Resources](#resources)
-  - [People to Follow](#people-to-follow)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+  
 
 
 ## Admin Panels
