@@ -34,7 +34,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 |- [Resources](#resources) |  - [People to Follow](#people-to-follow) |- [Other Awesome Lists](#other-awesome-lists) |
 |- [Contributing](#contributing) | | |
 
-  
+
 
 
 ## Admin Panels
@@ -650,10 +650,11 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Web development frameworks.*
 
   * [Ruby On Rails](http://rubyonrails.org/) - Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable productivity
+  * [Roda](https://roda.jeremyevans.net/) - Modular, scalable Ruby framework. Extremely fast, extremely efficient.
+  * [Hanami](http://hanamirb.org/) - (formerly Lotus) A complete full-stack application framework that is simple, fast and lightweight. Designed for scale.
   * [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
   * [Padrino](http://www.padrinorb.com/) - The Godfather of Sinatra provides a full-stack agnostic framework on top of Sinatra
   * [Cramp](http://cramp.in/) - Cramp is a fully asynchronous real-time web application framework in Ruby
-  * [Lotus](http://lotusrb.org/) - A newborn complete Ruby web framework that is simple, fast and lightweight.
   * [Cuba](http://cuba.is/) - Cuba is a microframework for web development originally inspired by Rum, a tiny but powerful mapper for Rack applications.
   * [Pakyow](https://pakyow.com/) - Pakyow is an open-source framework for the modern web. Build working software faster with a development process that remains friendly to both designers and developers. It's built for getting along.
   * [Hyperstack](https://hyperstack.org/) - A complete Isomorphic Ruby Framework using React, Opal and Rails
