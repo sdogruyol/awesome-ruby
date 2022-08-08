@@ -727,6 +727,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community
   * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
   * [Ruby Curated Resources](https://hackr.io/tutorials/learn-ruby)
+  * [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## People to Follow
 
