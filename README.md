@@ -324,6 +324,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for working with HTML, XML & CSS.*
 
   * [Nokogiri](http://www.nokogiri.org/)
+  * [Nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
   * [loofah](https://github.com/flavorjones/loofah) A general library for manipulating and transforming HTML/XML documents and fragments
 
 ## HTTP
@@ -582,6 +583,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * Testing Frameworks
     * [RSpec](http://rspec.info/) - BDD for Ruby
     * [MiniTest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
+    * [Turbo Tests](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like `parallel_tests` but with incremental summarized output.
     * [Cucumber]
        * [Cucumber Github](https://github.com/cucumber/cucumber/wiki) - Cucumber is a tool that executes plain-text functional descriptions as automated tests
        * [Cucumber Site](https://cucumber.io/) - Behaviour Driven Development with elegacy and joy
