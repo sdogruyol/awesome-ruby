@@ -324,6 +324,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
 *Libraries for working with HTML, XML & CSS.*
 
   * [Nokogiri](http://www.nokogiri.org/)
+  * [Nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
   * [loofah](https://github.com/flavorjones/loofah) A general library for manipulating and transforming HTML/XML documents and fragments
 
 ## HTTP
