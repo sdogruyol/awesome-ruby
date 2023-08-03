@@ -197,6 +197,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Capistrano](http://capistranorb.com/) - Remote multi-server automation tool
   * [Mina](https://github.com/mina-deploy/mina) Really fast deployer and server automation tool
   * [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, Ruby environments deployable anywhere https://nanobox.io.
+  * [Cloud 66](https://www.cloud66.com/) - Cloud 66 gives you everything you need to build, deploy, and manage your applications on any cloud without the headache of the “server stuff”.
 
 ## Distribution
 
