@@ -457,6 +457,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
   * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
   * [Sidekiq](https://github.com/mperham/sidekiq) Simple, efficient background processing for Ruby
+  * [Karafka](https://github.com/karafka/karafka) Ruby and Rails efficient Kafka processing framework 
 
 ## RESTful API
 
